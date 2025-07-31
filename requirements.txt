@@ -1,0 +1,11 @@
+openai
+networkx
+tqdm
+numpy
+tiktoken
+torch
+torch_geometric
+tenacity
+scikit-learn
+nano_vectordb
+graspologic
