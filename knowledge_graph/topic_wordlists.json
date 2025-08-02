@@ -1,0 +1,413 @@
+[
+    {
+        "topic": "Device Selection and Compatibility for Astronomical Imaging",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astronomical Imaging Systems",
+                "Device Compatibility Principles",
+                "Instrumentation Selection Criteria",
+                "Observational Technology Domains"
+            ],
+            "group_2": [
+                "Telescope Types and Classes",
+                "Camera and Sensor Technologies",
+                "Mount and Tracking System Categories",
+                "Optical Accessory Concepts",
+                "Interface and Connectivity Standards"
+            ],
+            "group_3": [
+                "Sensor Format and Pixel Characteristics",
+                "Optical Compatibility Parameters",
+                "Mounting Interface Types",
+                "Focusing Mechanism Principles",
+                "Filter and Adapter Categories"
+            ],
+            "group_4": [
+                "Backfocus Distance Requirements",
+                "Sensor-to-Telescope Matching Criteria",
+                "Field Flattener and Reducer Concepts",
+                "Guiding System Integration Principles",
+                "Vignetting and Illumination Uniformity Considerations"
+            ]
+        }
+    },
+    {
+        "topic": "Shooting Time, Location, and Target Compatibility in Astronomy",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astronomical Observation Planning",
+                "Celestial Target Selection",
+                "Observing Conditions Assessment"
+            ],
+            "group_2": [
+                "Observation Timing Strategies",
+                "Site Selection Criteria",
+                "Target Visibility Parameters",
+                "Environmental Condition Evaluation"
+            ],
+            "group_3": [
+                "Optimal Observation Windows",
+                "Geographical Location Factors",
+                "Target Transit and Altitude Considerations",
+                "Light Pollution Assessment",
+                "Weather and Atmospheric Transparency Concepts"
+            ],
+            "group_4": [
+                "Airmass and Atmospheric Extinction Principles",
+                "Astronomical Twilight Definitions",
+                "Target-Observer Geometry Analysis",
+                "Seasonal Target Accessibility",
+                "Local Horizon Obstruction Assessment"
+            ]
+        }
+    },
+    {
+        "topic": "Exposure Time and Parameter Evaluation in Astrophotography",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astrophotography Concepts",
+                "Exposure Principles",
+                "Imaging Parameter Evaluation",
+                "Photometric Techniques"
+            ],
+            "group_2": [
+                "Exposure Time Determination Methods",
+                "Light Collection Efficiency",
+                "Noise and Signal Analysis",
+                "Image Quality Assessment",
+                "Sensor Performance Parameters"
+            ],
+            "group_3": [
+                "Optimal Exposure Calculation Approaches",
+                "Signal-to-Noise Ratio Evaluation",
+                "Dynamic Range Considerations",
+                "Background Light Estimation",
+                "Calibration Frame Concepts"
+            ],
+            "group_4": [
+                "Sub-exposure Strategy Principles",
+                "Read Noise and Dark Current Analysis",
+                "Sky Brightness Impact Assessment",
+                "Star Saturation Avoidance Techniques"
+            ]
+        }
+    },
+    {
+        "topic": "Star Point Morphology and Tracking Accuracy in Astrophotography",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astrophotography Concepts",
+                "Astronomical Imaging Principles",
+                "Observational Astronomy",
+                "Image Quality Assessment"
+            ],
+            "group_2": [
+                "Star Image Morphology",
+                "Tracking and Guiding Systems",
+                "Optical System Performance",
+                "Image Distortion Concepts",
+                "Exposure Control Parameters"
+            ],
+            "group_3": [
+                "Point Spread Function Analysis",
+                "Tracking Error Types",
+                "Star Shape Metrics",
+                "Guiding Accuracy Assessment",
+                "Optical Aberration Categories"
+            ],
+            "group_4": [
+                "FWHM Measurement Principles",
+                "Eccentricity and Elongation Metrics",
+                "Periodic Error Analysis",
+                "Drift and Flexure Effects",
+                "Guiding Correction Methods"
+            ]
+        }
+    },
+    {
+        "topic": "Halo and Artifact Detection in Astronomical Images",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astronomical Image Analysis",
+                "Image Quality Assessment",
+                "Artifact Identification",
+                "Data Processing in Astronomy"
+            ],
+            "group_2": [
+                "Image Artifact Classification",
+                "Halo Detection Methods",
+                "Noise and Distortion Concepts",
+                "Feature Extraction Techniques",
+                "Image Preprocessing Principles"
+            ],
+            "group_3": [
+                "Point Spread Function Analysis",
+                "Background Subtraction Techniques",
+                "Morphological Feature Analysis",
+                "Anomaly Detection Algorithms",
+                "Signal-to-Noise Ratio Evaluation"
+            ],
+            "group_4": [
+                "Halo Profile Characterization",
+                "Cosmic Ray Artifact Identification",
+                "Saturation Artifact Detection",
+                "Deblending and Source Separation Concepts"
+            ]
+        }
+    },
+    {
+        "topic": "Calibration Frame Effectiveness and Quality in Astronomy",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astronomical Data Calibration",
+                "Image Quality Assessment",
+                "Observational Data Processing",
+                "Photometric and Instrumental Corrections"
+            ],
+            "group_2": [
+                "Calibration Frame Types",
+                "Calibration Methodologies",
+                "Quality Control Concepts",
+                "Error Mitigation Strategies"
+            ],
+            "group_3": [
+                "Bias Frame Principles",
+                "Dark Frame Correction Techniques",
+                "Flat Field Correction Methods",
+                "Signal-to-Noise Ratio Considerations",
+                "Artifact Reduction Approaches"
+            ],
+            "group_4": [
+                "Calibration Frame Uniformity Criteria",
+                "Temporal Stability Assessment",
+                "Residual Pattern Analysis",
+                "Calibration Frame Integration Methods"
+            ]
+        }
+    },
+    {
+        "topic": "Color Balance and Ground Truth Comparison in Image Processing",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Image Processing Concepts",
+                "Color Science",
+                "Image Quality Assessment",
+                "Computational Photography"
+            ],
+            "group_2": [
+                "Color Correction Methods",
+                "Ground Truth Evaluation Principles",
+                "Color Representation Models",
+                "Image Comparison Techniques"
+            ],
+            "group_3": [
+                "White Balance Algorithms",
+                "Reference Image Selection Criteria",
+                "Color Space Transformation Concepts",
+                "Image Difference Metrics"
+            ],
+            "group_4": [
+                "Illuminant Estimation Approaches",
+                "Chromatic Adaptation Models",
+                "Perceptual Color Difference Metrics",
+                "Dataset Annotation Standards"
+            ]
+        }
+    },
+    {
+        "topic": "Calibration Result Evaluation in Astrophotography",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astrophotography Techniques",
+                "Calibration Principles",
+                "Image Quality Assessment",
+                "Data Processing Concepts"
+            ],
+            "group_2": [
+                "Calibration Frame Types",
+                "Image Correction Methods",
+                "Quality Evaluation Metrics",
+                "Noise Reduction Strategies"
+            ],
+            "group_3": [
+                "Bias Frame Concepts",
+                "Dark Frame Analysis",
+                "Flat Field Correction Principles",
+                "Signal-to-Noise Ratio Evaluation",
+                "Calibration Artifact Identification"
+            ],
+            "group_4": [
+                "Residual Gradient Assessment",
+                "Vignetting Correction Evaluation",
+                "Hot Pixel Detection Methods",
+                "Flat Field Uniformity Analysis"
+            ]
+        }
+    },
+    {
+        "topic": "High Contrast Region and Signal-to-Noise Ratio Analysis",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Image Analysis",
+                "Signal Processing",
+                "Contrast Enhancement",
+                "Measurement Principles"
+            ],
+            "group_2": [
+                "Image Quality Assessment",
+                "Contrast Metrics",
+                "Noise Characterization",
+                "Region of Interest Analysis",
+                "Statistical Evaluation Methods"
+            ],
+            "group_3": [
+                "High Contrast Region Identification",
+                "Signal-to-Noise Ratio Metrics",
+                "Background Noise Estimation",
+                "Local Contrast Evaluation",
+                "Image Segmentation Concepts"
+            ],
+            "group_4": [
+                "Contrast-to-Noise Ratio Analysis",
+                "Edge Detection Principles",
+                "Region-Based Signal Analysis",
+                "Noise Suppression Techniques"
+            ]
+        }
+    },
+    {
+        "topic": "Background Gradient and Color Block Analysis in Astronomical Images",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astronomical Image Analysis",
+                "Image Processing Concepts",
+                "Photometric Principles",
+                "Background Characterization"
+            ],
+            "group_2": [
+                "Background Estimation Methods",
+                "Gradient Detection Techniques",
+                "Color Analysis Frameworks",
+                "Image Quality Assessment",
+                "Noise and Artifact Identification"
+            ],
+            "group_3": [
+                "Sky Background Modeling Approaches",
+                "Color Uniformity Evaluation",
+                "Gradient Correction Algorithms",
+                "Block Artifact Classification",
+                "Statistical Background Metrics"
+            ],
+            "group_4": [
+                "Polynomial Surface Fitting for Background",
+                "Color Channel Consistency Analysis",
+                "Background Flatness Assessment",
+                "Spatial Variation Quantification",
+                "Blockiness Detection Principles"
+            ]
+        }
+    },
+    {
+        "topic": "Star Point Morphology Integrity in Post-processing",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Astrophotography Image Quality",
+                "Image Post-processing Concepts",
+                "Stellar Morphology Analysis",
+                "Astronomical Data Integrity"
+            ],
+            "group_2": [
+                "Star Shape Preservation Principles",
+                "Image Artifact Minimization",
+                "Point Spread Function Concepts",
+                "Post-processing Workflow Categories",
+                "Image Quality Assessment Methods"
+            ],
+            "group_3": [
+                "Star Profile Deformation Types",
+                "Morphological Feature Retention",
+                "Noise Reduction Impact on Star Morphology",
+                "Sharpening and Blurring Effects",
+                "Metric-based Star Quality Evaluation"
+            ],
+            "group_4": [
+                "Stellar Roundness Preservation",
+                "FWHM Consistency Analysis",
+                "Star Elongation Artifact Detection",
+                "Centroid Stability Assessment",
+                "Sub-pixel Morphology Metrics"
+            ]
+        }
+    },
+    {
+        "topic": "Signal-to-Noise Ratio Analysis and Feedback in Image Processing",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Image Processing Concepts",
+                "Signal Analysis Principles",
+                "Noise Characterization",
+                "Quality Assessment Methods"
+            ],
+            "group_2": [
+                "Signal-to-Noise Ratio Metrics",
+                "Image Quality Evaluation Techniques",
+                "Noise Reduction Strategies",
+                "Feedback Mechanisms in Processing"
+            ],
+            "group_3": [
+                "SNR Calculation Methods",
+                "Types of Image Noise",
+                "Adaptive Filtering Approaches",
+                "Iterative Enhancement Processes"
+            ],
+            "group_4": [
+                "Spatial Domain Noise Analysis",
+                "Frequency Domain SNR Assessment",
+                "Feedback Loop Optimization Principles",
+                "Perceptual Quality Metrics"
+            ]
+        }
+    },
+    {
+        "topic": "Brightness, Contrast, and Saturation Evaluation in Final Image",
+        "error": null,
+        "keywords": {
+            "group_1": [
+                "Image Quality Assessment",
+                "Digital Imaging Concepts",
+                "Visual Perception Principles"
+            ],
+            "group_2": [
+                "Photometric Properties",
+                "Color Representation Models",
+                "Image Enhancement Techniques",
+                "Perceptual Evaluation Methods"
+            ],
+            "group_3": [
+                "Brightness Adjustment Principles",
+                "Contrast Control Methods",
+                "Saturation Manipulation Concepts",
+                "Color Space Transformations",
+                "Histogram Analysis Techniques"
+            ],
+            "group_4": [
+                "Luminance Evaluation Criteria",
+                "Local and Global Contrast Metrics",
+                "Chromatic Intensity Assessment",
+                "Perceptual Uniformity Measures"
+            ]
+        }
+    }
+]

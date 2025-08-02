@@ -1,0 +1,2153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="e_chunks_id" attr.type="long"/>
+<key id="d4" for="edge" attr.name="e_chunks_id" attr.type="double"/>
+<key id="d3" for="edge" attr.name="e_description" attr.type="string"/>
+<key id="d2" for="node" attr.name="v_type" attr.type="string"/>
+<key id="d1" for="node" attr.name="v_description" attr.type="string"/>
+<key id="d0" for="node" attr.name="v_name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="n1091">
+  <data key="d0">STAR COLORS</data>
+  <data key="d1">A parameter in astrophotography related to stars, mentioned on pages 143 - 145, 282</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1083">
+  <data key="d0">SIGNAL NOISE</data>
+  <data key="d1">A parameter that affects the quality of astrophotography images
+A parameter related to the quality of astrophotography images</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1003">
+  <data key="d0">LIMITING PHOTOGRAPHIC MAGNITUDE</data>
+  <data key="d1">The dimmest star a telescope can theoretically photograph, generally two magnitudes fainter than the visual value and affected by seeing, transparency, camera setup, and visual acuity</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n722">
+  <data key="d0">SINGLE STARS</data>
+  <data key="d1">Celestial objects that can be photographed using a camera and telescope, showing different colors and brightness</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1388">
+  <data key="d0">STARS</data>
+  <data key="d1">Celestial bodies and astronomical objects that are common subjects for astrophotography. These objects, which can be visible to the unaided eye from a dark - sky site (about 9,096 stars up to magnitude +6.5), are best viewed when on the meridian. They can be framed with the Moon, captured during lunar and solar eclipses (including in wide - angle views), and photographed using certain lenses or through a telescope (with their appearance affected by atmospheric steadiness). Their movement changes as Earth orbits the Sun, rising earlier each night, and is also affected by the observer's location on Earth. Some of these objects have names, including famous stars, and planets can be photographed near them. They are used in the drift method for mount alignment, and their observation and photography in astrophotography are affected by atmospheric conditions.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1397">
+  <data key="d0">LIGHT POLLUTION</data>
+  <data key="d1">A factor that affects astrophotography, including sessions, images (especially faint DSOs, all - sky astropics, the Milky Way, and color images), camera settings for aurora photography, and the number of visible stars. It is considered in site selection surveys, estimated by magnitude and sky appearance. It is the only limiting factor for exposure length in astrophotography and impacts sky color and detail in astropics.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1080">
+  <data key="d0">SHOOTING STAR</data>
+  <data key="d1">A celestial phenomenon that can be captured in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1444">
+  <data key="d0">GUIDE STAR</data>
+  <data key="d1">A star is selected near an astronomical object of interest and is chosen to be as bright as possible. This star can be used for guiding the telescope, either in manual guiding or by an autoguider which locks onto it and sends correction commands to the telescope's mount. It can also be used in the guide ‘scope method during the imaging of the astronomical object.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1353">
+  <data key="d0">FOCUS</data>
+  <data key="d1">In astrophotography, there is a key parameter that determines the sharpness of star images or the object. It can be evaluated and adjusted, either manually or, in some cases like lunar astrophotography with an iPhone, automatically. This parameter is related to the camera and telescope, where the telescope is visually focused first. It is affected by various factors, and achieving sharp focus can be difficult during solar eclipses.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n939">
+  <data key="d0">DIM OBJECTS</data>
+  <data key="d1">Faint and dim objects in the night sky that astrophotographers try to capture</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n769">
+  <data key="d0">FALLING STAR</data>
+  <data key="d1">A celestial object that can be photographed in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1154">
+  <data key="d0">BRIGHTEST STARS</data>
+  <data key="d1">Celestial objects that are good subjects for astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1343">
+  <data key="d0">STAR SYSTEM</data>
+  <data key="d1">Groupings of stars, such as double/triple stars, that can be photographed with a camera and telescope</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1395">
+  <data key="d0">STAR</data>
+  <data key="d1">Luminous celestial objects visible in the night sky, such as Polaris and Sigma Octantis, which come in various colors and brightnesses. Their positions can be determined by celestial coordinates, and software can locate them and provide data on magnitude and color. They are grouped into constellations and are targets for astrophotography, where they can be photographed using different methods, including during lunar occultations, near the Moon, and in Camera Only mode time - exposures. They can also be used to measure a telescope's limiting magnitudes and are more visible during a lunar eclipse. Some are observable during astronomical twilight and can be used for focusing during sunrise/sunset, sending light from many hundreds of years back in time.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n713">
+  <data key="d0">STELLAR ASTERISM</data>
+  <data key="d1">Groupings of stars that appear like a common object or pattern in the sky and can be photographed</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1347">
+  <data key="d0">IMAGING METHODS</data>
+  <data key="d1">The document details various techniques for astrophotography. There are two main ways of taking astrophotos: Camera Only mode and Camera and Telescope mode. Specific methods include prime focus, afocal, eyepiece projection, Barlow/extender, and piggy - back. Techniques also involve using specific camera settings, lenses, and taking exposures of different durations (e.g., 30 - second exposures, long - exposures of celestial poles). Other aspects cover guiding methods like short - exposure using the mount's inherent tracking, manual guiding (using OAG or guiding telescope), and auto - guiding (using OAG or guiding telescope). It also mentions using software such as Sequence Generator Pro, photographing celestial objects like the Sun, solar eclipses, and the moon, and specific wavelength viewing of the Sun. Additionally, it includes ways to capture single or multiple frames, use video, and achieve focus. Overall, the techniques are numerous and complex, and some are used by astrophotographers like Damian Peach.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n758">
+  <data key="d0">DAYSTAR FILTERS</data>
+  <data key="d1">Filters used in astrophotography, especially for daytime solar photography</data>
+  <data key="d2">LENS</data>
+</node>
+<node id="n568">
+  <data key="d0">PLANETARIUM SOFTWARE</data>
+  <data key="d1">A category of astronomical software crucial for astrophotographers and telescope users
+Software used to determine the visibility of stars in the night sky by inputting location's latitude and longitude
+Software used to find way around the sky and assist in astronomical observations
+Electronic star - chart equivalent, used to view the sky layout in RA and Dec</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1408">
+  <data key="d0">SOFTWARE</data>
+  <data key="d1">The software is used in astrophotography and astronomical observation. It can check the positions of the Moon, planets, and determine the Moon's position and the orientation of the Milky Way. It provides location, details, orbital data, phase information of astronomical objects, and takes into account their motion. It can also provide information on multiple - star systems and DSOs, including their physical and astronomical parameters. The software helps with tasks like mount alignment (including daytime polar alignment), running equipment, and astropic processing. It can be used to view and process astropic image metadata and set up observing lists. It can be proprietary or other software used with a GOTO mount to select astronomical objects on the computer screen and is mentioned in Chapter 7.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1335">
+  <data key="d0">COMPUTER AND SOFTWARE</data>
+  <data key="d1">Capabilities that can be upgraded for astrophotography requirements</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n417">
+  <data key="d0">PIXELS</data>
+  <data key="d1">A parameter related to camera sensors in astrophotography with relevant primers
+A parameter related to the resolution of camera sensors in astrophotography</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n310">
+  <data key="d0">IMAGE PROCESSING SOFTWARE</data>
+  <data key="d1">Software used for processing astrophotography images, having various tools and histograms
+Software used for further processing of astro - images on a computer</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1066">
+  <data key="d0">SINGLE IMAGE VERSUS MANY IMAGES TECHNIQUE</data>
+  <data key="d1">A comparison of two imaging approaches in astrophotography</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n922">
+  <data key="d0">STAR TRAIL</data>
+  <data key="d1">A phenomenon in astrophotography that can be captured</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1073">
+  <data key="d0">RULE 7</data>
+  <data key="d1">A rule related to astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1170">
+  <data key="d0">TELESCOPE TRACKING CORRECTION METHOD</data>
+  <data key="d1">Methods used to correct a telescope's tracking system for long - exposure DSO imaging</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1437">
+  <data key="d0">DEEP SKY OBJECTS</data>
+  <data key="d1">Chapter 20 and several suggested readings focus on astrophotography, whose targets include various astronomical objects outside the Solar System, such as nebulae and faint galaxies. These objects can be photographed by the Vaonis Stellina Smart Telescope, with the dimmest ones requiring a dark sky and some being the focus of multi - hour telescopic astrophotography and a primary interest for astrophotography.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1352">
+  <data key="d0">PARAMETERS</data>
+  <data key="d1">The document discusses various settings, values, and variables relevant to astrophotography. These include ASA values of the film (e.g., 200 ASA, 400 ASA), exposure time, ISO (e.g., 1000 - 2000, 1600 - 3200), aperture (e.g., full aperture), shutter speed, and magnification. It also mentions elements like date, time, and earthly location for an astrophotography session, as well as factors related to the imaging setup such as the focuser travel of the telescope. Some settings are provided for different phases and imaging scenarios, and variables like twilight conditions are to be considered. While many details are not explicitly described in the document, exposure time is noted as an important parameter, especially during eclipses.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1074">
+  <data key="d0">RULE 8</data>
+  <data key="d1">A rule for astrophotography operations</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1072">
+  <data key="d0">RULE 6</data>
+  <data key="d1">A rule to be considered in astrophotography
+A rule emphasizing the importance of focus for getting good astrophotographs</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1076">
+  <data key="d0">RULE 10</data>
+  <data key="d1">A rule for astrophotography activities</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1203">
+  <data key="d0">PIXEL SIZE</data>
+  <data key="d1">A parameter affected by the telescope's specifications and imaging configurations in astrophotography</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1399">
+  <data key="d0">TRANSPARENCY</data>
+  <data key="d1">A parameter related to atmospheric clarity, affected by factors like dust and smoke and measured on a scale, that significantly impacts astronomical observations and astrophotography, including what can be seen and photographed through a telescope and in camera - only mode.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n460">
+  <data key="d0">ASTRONOMY SOFTWARE</data>
+  <data key="d1">Software used in astrophotography</data>
+  <data key="d2">UNKNOWN</data>
+</node>
+<node id="n152">
+  <data key="d0">STAR PARTY</data>
+  <data key="d1">An event where people with telescopes gather at a pre - arranged dark sky site around moonless times to observe and photograph the sky</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n349">
+  <data key="d0">CROPPING</data>
+  <data key="d1">An imaging method using a tool in image - processing software to resize, straighten, or rotate astropics</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n740">
+  <data key="d0">SUNSPOTS AND OTHER FEATURES</data>
+  <data key="d1">Features on the Sun that can be photographed in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1071">
+  <data key="d0">RULE 5</data>
+  <data key="d1">A rule for astrophotography practitioners
+A rule about taking astrophotographs based on the sky conditions</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n146">
+  <data key="d0">SIGMA OCTANTIS</data>
+  <data key="d1">A star used for polar alignment in the Southern Hemisphere
+A star marking the area of the SCP, used for determining star visibility in the Southern Hemisphere
+A star that can possibly be seen near the equator, marking the area of the SCP
+A dim star in the Southern Hemisphere, visible in a dark sky or with optical aid, used to guide to the SCP
+A star in the Southern Hemisphere used to assist in the polar alignment procedure of equatorial mounts</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1346">
+  <data key="d0">RULES</data>
+  <data key="d1">Astrophotography guidelines include the 500 rule, precise telescope alignment and finder - scope centering, using a safe solar filter and following solar safety practices (especially when using advanced solar viewing systems and during eclipses), maintaining the integrity of submissions and proper image representation, using the highest feasible ISO and taking more pictures, reading user - manuals, operating in different modes, and ensuring the mount can handle the payload. Some guidelines are applicable to specific imaging methods.</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n841">
+  <data key="d0">DEEP - SKY OBJECTS (DSOS)</data>
+  <data key="d1">General term for celestial objects used as subjects in astrophotography
+A category of celestial objects for which specific processing software is required for astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1127">
+  <data key="d0">STACKING METHOD</data>
+  <data key="d1">More advanced imaging method in astrophotography</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n742">
+  <data key="d0">STAR CLUSTERS</data>
+  <data key="d1">A type of deep - sky astronomical object that can be photographed in astrophotography
+A type of deep - sky object that can be photographed in astrophotography
+Astronomical objects that are targets in astrophotography, mentioned on pages 9, 11 etc.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n774">
+  <data key="d0">HIGH RESOLUTION PLANETARY ASTROPHOTOGRAPHY</data>
+  <data key="d1">An imaging method for astrophotography mentioned on page 303 in the document
+A specific imaging method focused on high - resolution planetary images</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n993">
+  <data key="d0">STEADINESS</data>
+  <data key="d1">A characteristic of atmospheric conditions that affects telescopic views and photographs, less of a factor in camera - only mode</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1434">
+  <data key="d0">STACKING</data>
+  <data key="d1">An advanced astrophotography imaging method is a powerful processing tool that stacks and processes multiple video frames into one final image. It uses software to select and stack the best images from many video or single images for better detail, sharpness, and contrast. It is used for handling lunar, planetary, and solar images, is mentioned on multiple pages (e.g., 33, 86) in a book, and currently has no satisfactory programs for Mac OS.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1332">
+  <data key="d0">TELESCOPE IMAGING METHODS</data>
+  <data key="d1">Methods used to obtain astropics when using a camera with a telescope
+Techniques used to obtain astropics when using a camera with a telescope</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n457">
+  <data key="d0">SKY OBJECTS</data>
+  <data key="d1">Objects in the sky that are the subject of astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n998">
+  <data key="d0">RESOLUTION</data>
+  <data key="d1">The ability of a telescope to see detail in astronomical objects, determined by aperture
+An important parameter in astrophotography affecting image quality
+A parameter affected by the telescope's specifications and imaging configurations in astrophotography
+In astrophotography, determined by the number and size of pixels on the camera's sensor and the type of astronomical object and optics used</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1085">
+  <data key="d0">STANDARD LENSES</data>
+  <data key="d1">A type of lenses used in astrophotography, mentioned on pages 43 and 46</data>
+  <data key="d2">LENS</data>
+</node>
+<node id="n339">
+  <data key="d0">ASTROPHOTOGRAPHY RULE #9</data>
+  <data key="d1">The rule stating 'Keep the Color Real' for astrophotography color adjustments</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1381">
+  <data key="d0">PLANETS</data>
+  <data key="d1">Astronomical and celestial objects, including those in the Solar System, are the focus of astrophotography. These objects can be magnified, photographed using various astrophotography methods, and may be paired with the Moon, zodiacal light, or visible during solar eclipses and certain types of twilight. They have distinct appearances and often require specific techniques and equipment, such as different telescopes (Vaonis Stellina Smart Telescope, CDK, Cassegrain, refractors) and lenses. Some objects move across the sky along the ecliptic or at varying speeds due to their orbital periods around the Sun. Many of these objects are best viewed on the meridian, can potentially be autofocused on in Camera Only mode, and are mostly immune to light - pollution effects. Daytime polar alignment may be required for their observation and photography.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n714">
+  <data key="d0">EXPOSURE LENGTH</data>
+  <data key="d1">A parameter in astrophotography limited by light pollution</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n394">
+  <data key="d0">EXTENSIVE GUIDE</data>
+  <data key="d1">A written resource available online to guide astrophotographers</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n41">
+  <data key="d0">THE STARS AND PLANETS</data>
+  <data key="d1">Celestial objects in the universe, often photographed in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n739">
+  <data key="d0">FULL DISK</data>
+  <data key="d1">A feature related to solar or other astronomical object photography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1359">
+  <data key="d0">DEEP SKY OBJECTS (DSOS)</data>
+  <data key="d1">The author began using the Meade telescope to photograph astrophotography subjects. These subjects are objects beyond our Solar System, many in the Milky Way and other galaxies, with designations from star catalogs. They include star clusters, nebulae like the Flame Nebula, and galaxies. Beginner astrophotographers should limit exposure time with most deep - sky objects (DSOs).</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n908">
+  <data key="d0">LIGHT COLLECTION CAPABILITY</data>
+  <data key="d1">A parameter in astrophotography related to the amount of light a telescope can collect</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1354">
+  <data key="d0">MILKY WAY</data>
+  <data key="d1">Our home galaxy, a large barred spiral galaxy, is a very popular subject in astrophotography. It is best viewed when on the meridian and is especially prominent in summer, though visible in winter too. It contains emission and dark nebulae and is a deep - sky object. It can be photographed using various cameras including smartphones, tablets, and with certain lenses, in different modes like Camera Only mode time exposures and 'all - sky' photography. The appearance of the galaxy in astrophotography can be affected by atmospheric transparency, and the Moon should be out of the sky for better results. It can form beautiful and colorful arcs in astropics and is a source of most DSOs, some of which can be seen using the'realistic view' in software. It presents a different imaging task compared to planets and other deep - sky objects.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1059">
+  <data key="d0">PRIME LENSES</data>
+  <data key="d1">Lenses used in astrophotography, referenced in several pages</data>
+  <data key="d2">LENS</data>
+</node>
+<node id="n1103">
+  <data key="d0">AFOCAL IMAGING METHOD</data>
+  <data key="d1">An imaging method using a smartphone for astrophotography of the Moon
+An imaging method that can be used with some camera types for photographing stars</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1330">
+  <data key="d0">PHOTON COLLECTION AND PROCESSING</data>
+  <data key="d1">A key parameter in astrophotography, with differences between film (analog) and digital methods</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1097">
+  <data key="d0">TRAILING</data>
+  <data key="d1">An imaging method in astrophotography</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n907">
+  <data key="d0">SUPERNOVA</data>
+  <data key="d1">The death of a massive star, an astronomical event that can potentially be photographed in astrophotography
+An astronomical event and object for astrophotography, mentioned on pages 12, 353 etc.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n122">
+  <data key="d0">STAR CLUSTER</data>
+  <data key="d1">Groups of stars within our galaxy that can be photographed
+A group of stars in the sky, such as the Pleiades, Hyades, and Beehive, that can be photographed with the Moon
+An object in astrophotography, sending light from many hundreds of years back in time
+Groups of stars that can be photographed with a camera and telescope</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1364">
+  <data key="d0">DSO</data>
+  <data key="d1">Deep - sky objects, which include galaxies, star clusters, nebulae, and quasars outside the solar system, are the main targets of astrophotography. These objects are located in both the Northern and Southern Hemispheres and in our nearby galaxy. They are best photographed during 'dark of the Moon' nights with no moonlight interference, considering sky transparency. They can be viewed and photographed using various equipment such as astrophotography - dedicated video cameras, modified DSLRs, cameras with lenses, color and monochrome astrocameras, and telescopes like the Dobsonian. Specific wavelength filters can enhance the light in these objects, and they are also visible during star parties when the Moon is out of the sky.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1086">
+  <data key="d0">SPOTTING SCOPES</data>
+  <data key="d1">An instrument for astrophotography, mentioned on page 238</data>
+  <data key="d2">TELESCOPE</data>
+</node>
+<node id="n1038">
+  <data key="d0">RULE - NO STOMPING FEET</data>
+  <data key="d1">A rule to avoid making the mount vibrate and blurring the astrophotography image</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1440">
+  <data key="d0">ASTRONOMICAL OBJECTS</data>
+  <data key="d1">The targets of astrophotography include various objects in the sky such as stars, galaxies, double stars, lunar, planetary, solar objects, and distant DSOs. These objects can be viewed and photographed through a telescope. Their visibility is affected by various parameters, and Chapters 12 - 20 provide specifics on photographing different types. They are sources of photons of light in the Universe, and lenses collect light from them in astrophotography. The set - up for astrophotography is dictated by the type of these objects.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1119">
+  <data key="d0">USING PROVIDED ASTROPIC SETTINGS</data>
+  <data key="d1">An imaging method where one uses the settings from provided astropics or settings corresponding to the Moon's phase as a starting point</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1430">
+  <data key="d0">ASTROPHOTOGRAPHY RULES</data>
+  <data key="d1">There are various rules and guidelines for astrophotography. These include reading the manual of image - processing software, having the Moon out of the sky, considering sky transparency, and having knowledge of camera features. Some rules are derived from the author's earlier book and are applicable to both Camera Only and Camera and Telescope Modes to help take better astropics. A book has a chapter on astrophotography guidelines but does not provide specific rules.</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n57">
+  <data key="d0">PRIME FOCUS TECHNIQUE</data>
+  <data key="d1">An imaging method where an optical reducer may be used, and an auto - guider can be employed for DSO astrophotography</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1360">
+  <data key="d0">PLANET</data>
+  <data key="d1">Celestial objects, such as Venus, Mercury, Mars, and Jupiter, are targets for astrophotography. They usually require short exposure times and may not need a tracking mount. These objects, which include bodies in our Solar System and other systems, are visible in the sky and can be studied scientifically through astrophotography. They can be used as focus objects, and their apparent magnitude helps in finding and identifying them. The brighter ones are most visible at opposition, and information about them can be obtained from software and the Observer's Handbook. They can be photographed in various astrophotography modes, including video and Camera Only mode time exposures, and slow focal ratio telescopes are optimized for photographing them. Some can be imaged when near the Moon, and they can be photographed with a camera and telescope, each presenting its own characteristics and challenges. Point light - source astronomical objects are observable during astronomical twilight.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n327">
+  <data key="d0">ASTROPHOTOGRAPHY RULE #8</data>
+  <data key="d1">The rule stating 'More is Better' in astrophotography, emphasizing taking many astropics per session
+The rule stating that 'More is Better' in astrophotography, suggesting taking many astropics in each session</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1093">
+  <data key="d0">THE RULE OF 500</data>
+  <data key="d1">A rule relevant to astrophotography, mentioned on specific pages</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n738">
+  <data key="d0">MOONRISE/MOONSET AND MOON SHOTS</data>
+  <data key="d1">A type of astronomical phenomenon and object that can be photographed in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n237">
+  <data key="d0">SETTINGS</data>
+  <data key="d1">The camera settings that can be estimated based on the lens used and the flight path of the ISS in astrophotography
+The camera settings used in astrophotography of the aurora, which depend on multiple factors</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n665">
+  <data key="d0">SITE SELECTION SURVEY</data>
+  <data key="d1">A checklist with various factors to consider when surveying potential home and mobile sites for astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n784">
+  <data key="d0">MANUFACTURER GUIDELINES AND PROCEDURES</data>
+  <data key="d1">Instructions from manufacturers to follow when using equipment in astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n133">
+  <data key="d0">PLANETARY</data>
+  <data key="d1">Related to planets, used in the context of astrophotography and can be photographed even in light - polluted areas with good seeing
+A category of astronomical objects in astrophotography
+One of the objects for astrophotography, can be photographed by both color and monochrome astrocameras</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n960">
+  <data key="d0">PLANETARY OBJECT</data>
+  <data key="d1">A type of object in astrophotography where features like live view with zoom are helpful
+Astronomical object related to planets, which can be photographed using a camera, Barlow, and telescope</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1290">
+  <data key="d0">VIDEO AND PURE ASTROCAMERAS</data>
+  <data key="d1">Types of cameras that improve the odds of getting a 'best pic' in astrophotography due to the large number of exposures</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n858">
+  <data key="d0">RAW IMAGE</data>
+  <data key="d1">Uncompressed and unaltered images recommended for astrophotography, quite large in size</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n393">
+  <data key="d0">TRIAL AND ERROR</data>
+  <data key="d1">An imaging method where one learns astrophotography by making mistakes and adjusting settings</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1287">
+  <data key="d0">LIVE VIEW AND ZOOM MODE</data>
+  <data key="d1">A method used with digital cameras to focus on astro - objects</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n949">
+  <data key="d0">PICTURE SIZE</data>
+  <data key="d1">A parameter in astrophotography that needs full manual control for a good DSLR</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1070">
+  <data key="d0">RULE 4</data>
+  <data key="d1">A rule relevant to astrophotography
+The rule of having a red headlamp for nighttime to preserve night - vision and operate safely and efficiently in astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n664">
+  <data key="d0">KEEP - NOTES RULE</data>
+  <data key="d1">A rule to keep notes about a mobile site used for astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1293">
+  <data key="d0">KEEP THE COLOR REAL RULE</data>
+  <data key="d1">An astrophotography rule stating not to add color to an image and to process it using accepted tools to keep the image real</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1058">
+  <data key="d0">SMARTPHONES</data>
+  <data key="d1">Devices that can be used for astrophotography, with multiple uses and applications described</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1333">
+  <data key="d0">OTHER OBJECTS IN THE UNIVERSE</data>
+  <data key="d1">Various celestial objects in the universe that can be photographed in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n768">
+  <data key="d0">GLOBULAR CLUSTERS</data>
+  <data key="d1">Celestial objects that are targets for astrophotography
+A type of deep - sky object that can be photographed in astrophotography
+Diffuse light - source celestial objects that need a totally dark sky for observation</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n992">
+  <data key="d0">ATMOSPHERIC CONDITIONS</data>
+  <data key="d1">Include steadiness and transparency, which affect telescopic views and photographs</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n357">
+  <data key="d0">IMAGE PROCESSING RULE</data>
+  <data key="d1">Rule stating that image processing should be done when having sufficient time and should be enjoyable</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1084">
+  <data key="d0">SQUARE LENS GLASS FILTER</data>
+  <data key="d1">A type of filter used in astrophotography, mentioned on page 46</data>
+  <data key="d2">LENS</data>
+</node>
+<node id="n543">
+  <data key="d0">VAONIS STELLINA SMART TELESCOPE</data>
+  <data key="d1">A compact, fully - automatic, technology - enabled telescope from Astroshop.eu. It works with Android and iPhone devices, takes astropics of deep - sky objects, the Moon and planets, and has features like a light pollution filter and dew heater
+A specific type of smart telescope used in astrophotography</data>
+  <data key="d2">TELESCOPE</data>
+</node>
+<node id="n1279">
+  <data key="d0">LUNAR AND PLANETARY OBJECTS</data>
+  <data key="d1">A type of astronomical objects that can be a primary interest for astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n824">
+  <data key="d0">PHOTOGRAPHING MOON</data>
+  <data key="d1">The act of taking pictures of the Moon, which has unique challenges due to its changing illumination and composition</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1194">
+  <data key="d0">LUNAR/PLANETARY OBJECTS</data>
+  <data key="d1">Objects that basic astrocameras can photograph</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1431">
+  <data key="d0">ASTRONOMICAL OBJECT</data>
+  <data key="d1">The targets of astrophotography include objects such as planets, stars, DSOs, the Sun, and the Moon. Astrophotographers select these targets to photograph, which need to be found, framed, and verified. Astrocameras are used to image these targets, and different cameras, modes, and mounts are recommended or used based on the target type. Photographers also need to consider the camera's resolution according to the target type, and a GOTO mount can be commanded to move towards the target. These targets are more discriminating as to focus than daytime objects, and some cameras may sacrifice performance on a particular class of them.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1380">
+  <data key="d0">SUN</data>
+  <data key="d1">The Sun, the central star of our solar system around which Earth orbits, is a major object of interest in astrophotography. It can be observed and photographed during the day and solar eclipses, but requires proper solar filters, specific procedures, and special safety measures. During solar eclipses, its corona and prominences are visible. Details like sunspots and solar transits can be observed, and it can be photographed in high - resolution records, video astrophotography, and using the afocal method. Slow focal ratio telescopes are optimized for photographing it, and stacking can be used. The ISS can be photographed crossing it with a safe solar filter. It poses a danger during daytime astrophotography and affects the visibility of some planets, and should be kept at a safe distance and out of the field of view during certain astrophotography. As it comes out of the minimum of the current solar cycle, it is expected to be more interesting for astrophotography. It has an apparent magnitude of - 26 and an absolute magnitude of +4.5.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1432">
+  <data key="d0">WHITE BALANCE</data>
+  <data key="d1">In astrophotography, a camera setting parameter is used to adjust the color temperature of an image, which affects the overall color appearance, representation, and accuracy. Beginners should set it on auto, and it can be adjusted during astropic processing, especially for the sky background. Adjustment of this parameter requires following Astrophotography Rule #9, and there are multiple online resources providing related information.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1056">
+  <data key="d0">PURE ASTROCAMERAS</data>
+  <data key="d1">Specialized cameras for astrophotography, mentioned in multiple contexts throughout the book</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1348">
+  <data key="d0">CAMERA</data>
+  <data key="d1">Astrophotography devices are used to capture images of celestial objects such as the Sun, Moon, stars, and during eclipses. They come in various types including smartphones, tablets, pocket cameras, film cameras (e.g., 35 - mm SLR film cameras), digital cameras (DSLRs, mirrorless CSCs, CSCs), video cameras, CCD/CMOS astrocameras, and pure astrocameras. These devices can be used alone, attached to a telescope, or in Camera Only and Camera and Telescope setups. They have different capabilities like bulb exposure, ISO range, manual focus, and shutter release, and various settings such as ISO, exposure, white balance, and image quality. Some devices have features like live view, viewfinder, LCD panel, and in - camera menu options for astrophotography, and can record image metadata and perform in - camera image processing. When photographing solar eclipses, a safe solar filter is required. The choice of device depends on the type of astronomical object or event being photographed, and modern digital cameras with interchangeable lenses are suitable for beginners. There has been a shift from film - based to digital models, and a book offers recommendations and discusses related settings.</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n770">
+  <data key="d0">HALEY'S COMET</data>
+  <data key="d1">An object relevant to astrophotography, with page references 311 and 318 in the document</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1064">
+  <data key="d0">SLOOH RENTAL CAMERA AND TELESCOPE</data>
+  <data key="d1">A rental option combining a camera and a telescope for astrophotography</data>
+  <data key="d2">TELESCOPE</data>
+</node>
+<node id="n360">
+  <data key="d0">ONLINE POSTING</data>
+  <data key="d1">A method of sharing astroimages via social media, traditional media, camera manufacturers' web pages, etc.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1349">
+  <data key="d0">TELESCOPE</data>
+  <data key="d1">Telescopes are optical instruments used for astronomical observations and astrophotography. They come in various types (e.g., Schmidt Cassegrain, Newtonian reflector, refractor), apertures, and brands. Telescopes can be used alone or in combination with cameras in different modes such as Camera and Telescope mode, prime focus mode, and eyepiece projection. They are used to view and photograph celestial objects like planets, moons, comets, nebulae, and galaxies. For solar observations and eclipses, approved solar filters are required. Telescopes may need a proper mount, which could be motorized or equatorial, and may require rebalancing, collimation, and cooling. They can be moved using mobile platforms, and some small refractors can be carried on aircraft. Some telescopes can be controlled by smartphones and tablets. Beginners are advised to start with basic equipment, and high - quality optics are needed for advanced astrophotography. Telescopes can be bought or rented, and test - driving before purchase is an option. They also need protection from heat, moisture, and should be properly stored and maintained.</data>
+  <data key="d2">TELESCOPE</data>
+</node>
+<node id="n1390">
+  <data key="d0">FILM CAMERA</data>
+  <data key="d1">A type of film camera can be used for various types of astrophotography, including photographing the ISS, meteors, asteroids, comets, the Milky Way, constellations, star fields, nightscapes, asterisms, and the sun. It can use prime focus and eyepiece projection methods and settings for solar eclipse photography. However, it has limitations such as limited ISO selection, exposure capacity, and light - gathering ability compared to digital cameras. There are also issues like film grain, time - consuming film development, and having to wait for film processing to see results. Although not really recommended, it is still an option and is making a rare comeback in astrophotography.</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1372">
+  <data key="d0">SMARTPHONE</data>
+  <data key="d1">A type of camera, which can be a multi - function device combining a telephone, computer, and camera or a mobile device, can be used for astrophotography. It can be used with an extender, tripod, tracking mount, specific apps, software, or accessories like Celestron NexYZ. It's suitable for various astrophotography scenarios such as photographing the ISS, meteors, the Milky Way, and for solar astrophotography (including in afocal mode and during eclipses). It's recommended for the afocal method due to its light - weight and can be used by beginner astrophotographers in both 'Camera Only' and 'Camera and Telescope' modes. It also has different lens use scenarios and can be transformed into a basic astrocamera with appropriate applications.</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1391">
+  <data key="d0">POCKET CAMERA</data>
+  <data key="d1">A type of camera, such as modern 'point and shoot' or compact cameras, is suitable for astrophotography. It can be used in various scenarios, including photographing the ISS, meteors, the Milky Way, constellations, star fields, nightscapes, asterisms, and for solar astrophotography (in afocal mode and for solar eclipse photography). It can be used with a tripod or tracking mount, may need a universal digital camera adapter, and can effectively operate in 'Camera Only' mode. It's recommended for the afocal method and can utilize settings from a specific chapter for solar eclipse photography. It's versatile, easy to use and carry, and small in size. It may require a good lens for imaging the Milky Way and specific conditions for photographing certain objects.</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1410">
+  <data key="d0">VENUS</data>
+  <data key="d1">A bright planet in our Solar System with an apparent magnitude of - 4. It has phases, is cloud - covered, and can overwhelm a camera sensor. It is visible during dusk or dawn, always near the Sun, and can even be photographed in broad daylight. It can be involved in lunar occultations and rare solar transit events (transits in 2117 and 2125). When near the Moon (including in a crescent phase), it creates an eye - appealing view and presents good astrophotography opportunities. It can be observed rising with the galactic center of the Milky Way and reflected in water, and can appear in astrophotography with the Milky Way. It can be photographed, for example, in gibbous phase with 41% illumination. It is frequently observed and is a worthwhile target for astrophotography, and is one of the five planets that can be easily photographed in Camera Only and Camera and Telescope modes.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1387">
+  <data key="d0">ASTROPHOTOGRAPHY</data>
+  <data key="d1">The practice of photographing astronomical or celestial objects and phenomena, which can show more in the night sky than the eye and telescope alone. A book aims to teach beginners this skill, and examples of objects include the Moon and planets.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1337">
+  <data key="d0">CAMERA AND TELESCOPE IMAGING METHOD</data>
+  <data key="d1">An imaging method in astrophotography that uses both a camera and a telescope to photograph celestial objects
+An imaging method in astrophotography that uses both a camera and a telescope</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1057">
+  <data key="d0">SINGLE-LENS REFLEX CAMERA (SLR)</data>
+  <data key="d1">A type of camera used in astrophotography, with various features and applications</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n753">
+  <data key="d0">DIGITAL SINGLE LENS REFLEX CAMERA</data>
+  <data key="d1">A commonly used camera type in astrophotography with various applications</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n940">
+  <data key="d0">DIGITAL SINGLE LENS REFLEX CAMERA (DSLR)</data>
+  <data key="d1">A very capable camera type for astrophotography, can work in Camera Only and Camera and Telescope modes, and can also be used for general photography
+A type of camera used by the author to photograph a solar eclipse, specifically a Nikon D5000 DX</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1345">
+  <data key="d0">LENS</data>
+  <data key="d1">A camera lens is an optical component used with a camera for astrophotography. It has properties like focal length, f - number, and maximum aperture, which affect the image quality, field of view, and exposure time. Different types of lenses, including wide - angle, normal, telephoto, fisheye, and zoom lenses, with various focal lengths (such as 14 - 300mm, 200 - 500mm, 50mm, etc.) are suitable for different astrophotography scenarios, like photographing the moon, zodiacal light, or during solar eclipses. The lens may require proper support from a mounting, and heavier lenses can impact the mounting selection. It can be an interchangeable accessory, with front and rear caps, and may need to be changed during astronomical activities. For solar eclipse viewing and photography (except during totality), a properly - fitting solar filter from an AAS - recommended dealer is required. The lens should be properly cleaned, cared for, and its compatibility with the camera needs to be checked. It can also be part of a telescope's optical system and may be used in combination with a telescope and mount.</data>
+  <data key="d2">LENS</data>
+</node>
+<node id="n1192">
+  <data key="d0">COLOR ASTROCAMERA</data>
+  <data key="d1">A type of camera suitable for beginners, can obtain color images with relatively less sacrifice in performance, used for lunar/planetary, solar and brighter DSOs
+Recommended for beginners as it is easier to obtain color images with less sacrifice in performance</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1433">
+  <data key="d0">DIGITAL CAMERA</data>
+  <data key="d1">A digital camera used for astrophotography that has an LCD screen to view images, includes DSLR, CSC, and pure astrocameras, has applicable ISO values, allows the SAAS process to be done instantly in real - time, stores images on a digital storage medium, and has better light - gathering ability, as well as greater efficiency in processing, printing, and posting astropics compared to film cameras.</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n88">
+  <data key="d0">RED HEADLAMP</data>
+  <data key="d1">Worn when changing lenses to illuminate the process
+A headlamp used in night vision mode for astronomical observations
+A parameter in astrophotography, providing red light for safe and efficient operation at night and helping to preserve night - vision</data>
+  <data key="d2">UNKNOWN</data>
+</node>
+<node id="n1442">
+  <data key="d0">SIRIUS</data>
+  <data key="d1">Sirius, the brightest star at night, is located in the constellation Canis Major, 8.4 light - years from Earth. It has an apparent magnitude of - 1.4 and an absolute magnitude that makes it less bright in comparison. It is used for brightness comparison. Sirius is a single star that can be photographed and is an object of astrophotography. It has a white dwarf companion, Sirius B.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1417">
+  <data key="d0">NIGHTCAP CAMERA</data>
+  <data key="d1">There is software in the form of a camera app available for iPhones, iPads, and Windows that can transform these devices into astrophotography - capable cameras. The app has various modes such as 'ISS' mode for capturing pictures of the ISS and other satellites, a meteor shower mode, and a'stars mode' recommended for photographing the Milky Way. It can be used for astrophotography of comets and other night - sky objects. A mount can be used with the app on iPhone or iPad. The camera can also be accessed at nightcapcamera.com.</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n400">
+  <data key="d0">SENSOR SIZE</data>
+  <data key="d1">A parameter in DSLRs, with differences between full - frame (FX) and cropped (DX) sensors
+A parameter related to the camera sensor that impacts astrophotography
+A parameter determined by looking at a digital camera manufacturer's sensor specifications</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n616">
+  <data key="d0">EARTH</data>
+  <data key="d1">A spherical planet that determines what can be photographed and seen in the sky based on the observer's location
+Our planet, which has a 23.5 - degree tilt of its axis and orbits around the Sun, causing the four seasons
+Our planet, at the center of the celestial sphere and has a coordinate system based on latitude and longitude
+Our planet, whose atmosphere and shadow play crucial roles in lunar eclipses</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n103">
+  <data key="d0">USE RED HEADLAMP</data>
+  <data key="d1">A rule to visually confirm which knob is being loosened on the tripod/head combination during astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n974">
+  <data key="d0">REGULAR CAMERA</data>
+  <data key="d1">Cameras that can be used along with DSLRs (modified and dedicated) for astrophotography</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n763">
+  <data key="d0">FISHEYE LENSES</data>
+  <data key="d1">A type of lens used in astrophotography</data>
+  <data key="d2">LENS</data>
+</node>
+<node id="n1258">
+  <data key="d0">PLANETARY/LUNAR</data>
+  <data key="d1">Planets and the Moon, astronomical objects that can be imaged in astrophotography
+Planetary and lunar astronomical objects that can be photographed</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1396">
+  <data key="d0">LATITUDE</data>
+  <data key="d1">A geographical parameter in the Earth's coordinate system, related to celestial coordinates, is required for the operation of astronomical, astrophotography - related, and planetarium software. It can be determined from certain devices or maps. This parameter affects the portion of the sky visible from a location, including what DSOs are in the viewing range for astrophotography, how high Polaris is above the northern horizon, and the declination limit of visible astronomical objects. It is used in the imaging method, site - selection survey for sky visibility, calculation of declination limits, input for determining eclipse particulars in astronomical software, and the polar alignment procedure of mounts.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1047">
+  <data key="d0">CELESTRON NEXYZ</data>
+  <data key="d1">A smartphone telescope adapter for astrophotography</data>
+  <data key="d2">CAMERA</data>
+</node>
+<node id="n1281">
+  <data key="d0">COMPANY</data>
+  <data key="d1">Companies that offer rental telescopes for astrophotography, with a fee based on telescope use and session length</data>
+  <data key="d2">UNKNOWN</data>
+</node>
+<node id="n809">
+  <data key="d0">PLANETARY PHOTOGRAPHY</data>
+  <data key="d1">A specific type of astrophotography focused on planets</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n726">
+  <data key="d0">SIRIUS B</data>
+  <data key="d1">A white dwarf star, an object that can be imaged with at least a 6 - inch telescope
+A star related to Sirius, an object for astrophotography
+The white dwarf companion of Sirius</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n648">
+  <data key="d0">CAMERA ONLY CHECKLIST</data>
+  <data key="d1">A set of rules to follow when using a camera for astrophotography of the Sun</data>
+  <data key="d2">RULES</data>
+</node>
+<node id="n1424">
+  <data key="d0">GOTO MOUNT</data>
+  <data key="d1">A mount used in astrophotography can be controlled by software and has its own computer with a control keypad to access databases, identify objects, and assist in alignment. It can slew directly to the indicated position of an asteroid for identification, help find the location of planets and the Sun in the sky, and be used to find DSOs after being polar - aligned and synchronized. There might be special instructions for synching and daytime polar alignment.</data>
+  <data key="d2">MOUNTS</data>
+</node>
+<node id="n1373">
+  <data key="d0">PRIME FOCUS METHOD</data>
+  <data key="d1">An imaging technique for astrophotography that involves attaching a camera directly to the prime focus of a telescope. It is suitable for some camera types when photographing the ISS, eclipses (including solar eclipses), and other astronomical subjects. Using a focal reducer is preferred to get all the light and field of view, and it is a recommended method in the camera - telescope mode for astrophotography and is listed in the table of basic imaging methods for astrophotography.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n131">
+  <data key="d0">SOLAR SYSTEM</data>
+  <data key="d1">An astronomical system, members of which can be targets for astrophotography
+A region full of various celestial objects like the Sun, planets, moons, asteroids, and comets
+A system of celestial bodies that can be a subject in astrophotography
+An astronomical object that can be photographed in astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1101">
+  <data key="d0">WHITE LIGHT VIEWS OF THE SUN</data>
+  <data key="d1">A specific view of the Sun, an object of astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1401">
+  <data key="d0">POLAR ALIGNMENT</data>
+  <data key="d1">A method or rule for aligning camera or telescope mounts (including motorized and GOTO mounts) with the celestial pole, which is required for each observing session, before an eclipse, and for astrophotography (both daytime and nighttime applications). It is a key process for controlling the mount to find and photograph objects in the sky and ensures the proper functioning of the mounts, using various techniques and stars.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1081">
+  <data key="d0">SOLAR DISK</data>
+  <data key="d1">The visible surface of the Sun, an object for solar astrophotography
+An object of interest in solar eclipse astrophotography</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1416">
+  <data key="d0">MOUNT</data>
+  <data key="d1">In astrophotography, various devices are used to support and position cameras and telescopes. These devices, such as mounts (including alt - az and equatorial mounts), tripods (like carbon fiber tripods with gimbal heads), and other support structures, hold the equipment steady, allow for movement and precise positioning, and are often used with a telescope. Some devices need to be polar - aligned, either during the day for solar or lunar tracking or prior to an eclipse for celestial object tracking. They may require balance adjustment, especially when additional components like the NexYZ, eyepiece, and smartphone are attached, and their axes may need to be locked when attaching a camera to prevent imbalance - related movement. Some devices have a sidereal or solar - tracking rate capability. A quality support device is necessary for advanced astrophotography, and it is often included when buying a telescope, like a decent mount with an SCT or a robust equatorial mount with counterweights and tripod. Users should know how to operate these devices according to the rules and may refer to a corresponding user's manual. These devices may also need protection and a case for storage and transport.</data>
+  <data key="d2">MOUNTS</data>
+</node>
+<node id="n1420">
+  <data key="d0">AURORA</data>
+  <data key="d1">A natural light display and astronomical phenomenon visible in the Earth's night sky, especially in polar regions. It can change shape, size, brightness, and color quickly, has varying hues, and is a target for astrophotography and astrotourism. It can be best captured using the Camera Only imaging method.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1358">
+  <data key="d0">MOON</data>
+  <data key="d1">The Moon, Earth's natural satellite, is a popular and challenging target for astrophotography, astronomical observation, and research. It goes through various phases each lunar month, including thin crescents and Earthshine, and is involved in conjunctions, occultations, lunar and solar eclipses. Its surface has visible details like craters, and it can be imaged for its disk, phases, and during eclipse events. Different telescopes and lenses can be used to photograph it, and it can be a focus object in various astrophotography modes. The light from the Moon takes about 1.3 seconds to reach the camera.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1402">
+  <data key="d0">POLARIS</data>
+  <data key="d1">The North Star, a star in the Northern Hemisphere, is less than a degree from true north and the NCP. It is visible all night and all year in the Northern Hemisphere and possibly near the equator. It can be used for polar alignment of equatorial mounts and to determine latitude in the Northern Hemisphere as its height above the northern horizon corresponds to the observer's latitude. Its position varies with the observer's latitude, and stars in the sky appear to rotate around it, creating trails in astrophotography, making it important for astrophotography.</data>
+  <data key="d2">OBJECTS</data>
+</node>
+<node id="n1406">
+  <data key="d0">ISO</data>
+  <data key="d1">ISO is a camera setting parameter used in astrophotography and general photography to control the sensitivity of the image sensor. It is an acronym by the International Organization of Standardization denoting the 'speed' of film and digital cameras, with higher numbers indicating greater light - sensitivity. In astrophotography, its value needs to be adjusted according to shooting conditions such as the type of astronomical object (Moon, comet, DSOs), lighting conditions (pre - dawn, sunset), and astronomical events (solar eclipse, lunar eclipse, lunar occultation). Recommended values vary: 400 - 800 for Moon photography, 400 - 1000 for Moon astrophotography, 100 - 200 for solar eclipse photography, and it may need to be increased for lunar occultation. Film ISO was limited to a maximum of 3200 in 2019, and a good DSLR should have an ISO range from 100 - 200 up to at least 3200 or higher. A high ISO allows for fast exposure time and limits daytime seeing effects, and it amplifies the electrical signal to improve pictures of dimmer astronomical objects.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n458">
+  <data key="d0">OBSERVER'S HANDBOOK</data>
+  <data key="d1">A handbook providing a year - at - a - glance view of what's happening in the sky for astrophotography
+A resource that provides background on planets for their observing seasons and the position of moons
+A book by the Royal Astronomical Society of Canada full of astronomical and observational information</data>
+  <data key="d2">UNKNOWN</data>
+</node>
+<node id="n827">
+  <data key="d0">ATTACHING CAMERA PIGGYBACK METHOD</data>
+  <data key="d1">A method of getting DSO images by mounting the camera with a long - focal - length telephoto lens to the telescope tube or mount piggyback</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1436">
+  <data key="d0">APERTURE</data>
+  <data key="d1">Aperture is a parameter in astrophotography and of telescopes. In astrophotography, a wide aperture (low f - number) is preferred for wide - angle astrophotography, though a smaller aperture can also offer better opportunities. For telescopes, refractors have a variety of apertures. Aperture is the diameter of the lens or mirror of a telescope, which determines the amount of light it can collect, affects the quality of seeing, determines the theoretical maximum magnification, and has different requirements for observing different planets. It also impacts the visible detail of planets (e.g., 2 - inch aperture for visible planets, 8 - inch for Pluto) and is a factor to consider when choosing a telescope.</data>
+  <data key="d2">PARAMETERS</data>
+</node>
+<node id="n1367">
+  <data key="d0">CAMERA AND TELESCOPE MODE</data>
+  <data key="d1">The author uses an astrophotography mode with the Nikon D810a camera, which involves combining the camera with a telescope. This method requires more space and level ground, enables imaging of more distant galaxies, and can be used for lunar and some solar eclipses, as well as for photographing planets. It is one of the two astrophotography modes in the book, where the telescope can act as a lens for the camera, and both DSLRs and modified DSLRs can be used in this mode.</data>
+  <data key="d2">IMAGING METHODS</data>
+</node>
+<node id="n1067">
+  <data key="d0">RULE 1</data>
+  <data key="d1">A rule to follow in astrophotography, with specific page references
+The rule stating to know your camera, lenses, telescope, mount and all of your equipment, which is vital to success and safety in astrophotography</data>
+  <data key="d2">RULES</data>
+</node>
+<edge source="n1091" target="n742">
+  <data key="d3">Star colors are a parameter that can be considered when photographing star clusters in astrophotography</data>
+  <data key="d4">1.71705408278378e+19</data>
+</edge>
+<edge source="n1091" target="n1380">
+  <data key="d3">Star colors can also be a relevant parameter when photographing the sun in astrophotography</data>
+  <data key="d4">6.54929042184244e+18</data>
+</edge>
+<edge source="n1083" target="n1364">
+  <data key="d3">Signal noise is a parameter that affects the quality of DSO images</data>
+  <data key="d4">4.95108240206308e+18</data>
+</edge>
+<edge source="n1083" target="n1360">
+  <data key="d3">Signal noise is a parameter that affects the quality of planet images</data>
+  <data key="d4">6.17663422317114e+18</data>
+</edge>
+<edge source="n1083" target="n1057">
+  <data key="d3">Signal noise is a parameter that impacts the image quality of single - lens reflex cameras in astrophotography</data>
+  <data key="d4">7.92215117866653e+18</data>
+</edge>
+<edge source="n1003" target="n1349">
+  <data key="d3">A telescope has a limiting photographic magnitude, which is the dimmest star it can theoretically photograph</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n1003" target="n1395">
+  <data key="d3">Limiting photographic magnitude is the measure of the dimmest star a telescope can photograph</data>
+  <data key="d4">5.57511297772483e+18</data>
+</edge>
+<edge source="n722" target="n1154">
+  <data key="d3">is</data>
+  <data key="d4">1.9874370162291e+18</data>
+</edge>
+<edge source="n722" target="n1442">
+  <data key="d3">Sirius is a single star that can be photographed</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n1388" target="n1397">
+  <data key="d3">Light pollution affects the number of stars visible from a location</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n1388" target="n993">
+  <data key="d3">The steadiness of the atmosphere determines the appearance of stars (twinkling or solid points of light)</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n1388" target="n1380">
+  <data key="d3">The stars rise earlier each night because of Earth's orbital motion around the Sun and eventually disappear into the Sun's glare</data>
+  <data key="d4">9.15391902648264e+18</data>
+</edge>
+<edge source="n1388" target="n1348">
+  <data key="d3">A camera is used to take astrophotographs of stars</data>
+  <data key="d4">1.24901577468753e+19</data>
+</edge>
+<edge source="n1388" target="n616">
+  <data key="d3">The movement and visibility of stars in the sky are determined by the observer's location on Earth</data>
+  <data key="d4">1.55954588174849e+19</data>
+</edge>
+<edge source="n1388" target="n1372">
+  <data key="d3">A smartphone can be used to photograph stars</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1388" target="n1349">
+  <data key="d3">A telescope can be used to observe stars for astrophotography</data>
+  <data key="d4">4.95108240206308e+18</data>
+</edge>
+<edge source="n1397" target="n714">
+  <data key="d3">Light pollution is the only limiting factor for the length of exposure in astrophotography</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n1397" target="n1432">
+  <data key="d3">Light pollution can cause problems in achieving good white balance for color images</data>
+  <data key="d4">1.64984263700366e+19</data>
+</edge>
+<edge source="n1397" target="n1071">
+  <data key="d3">The factor of light pollution is considered in Rule 5 for astrophotography sessions</data>
+  <data key="d4">1.34565885586346e+19</data>
+</edge>
+<edge source="n1397" target="n1354">
+  <data key="d3">Light pollution can impact the visibility and appearance of the Milky Way in astropics</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n1397" target="n237">
+  <data key="d3">The camera settings are affected by the amount of light pollution in the area where the aurora is being photographed</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1397" target="n1387">
+  <data key="d3">Light pollution can affect the quality of astrophotography, especially for faint DSOs, all - sky astropics, and the Milky Way</data>
+  <data key="d4">7.05987683876946e+18</data>
+</edge>
+<edge source="n1397" target="n665">
+  <data key="d3">The site selection survey includes the consideration of light pollution, estimated by magnitude and sky appearance</data>
+  <data key="d4">1.24901577468753e+19</data>
+</edge>
+<edge source="n1397" target="n1402">
+  <data key="d3">Light pollution can influence the quality of Polaris' astropics</data>
+  <data key="d4">1.40781513534681e+18</data>
+</edge>
+<edge source="n1080" target="n922">
+  <data key="d3">is</data>
+  <data key="d4">1.28562748183389e+19</data>
+</edge>
+<edge source="n1080" target="n1056">
+  <data key="d3">Pure astrocameras can be used to capture shooting stars in astrophotography</data>
+  <data key="d4">1.51251588016276e+19</data>
+</edge>
+<edge source="n1080" target="n769">
+  <data key="d3">is</data>
+  <data key="d4">1.55593106493876e+19</data>
+</edge>
+<edge source="n1080" target="n738">
+  <data key="d3">is</data>
+  <data key="d4">1.24901577468753e+19</data>
+</edge>
+<edge source="n1444" target="n1349">
+  <data key="d3">The guide star is used to guide the telescope during both manual and auto guiding</data>
+  <data key="d4">2.12676269195468e+18</data>
+</edge>
+<edge source="n1444" target="n1431">
+  <data key="d3">The guide star is selected from the field of stars surrounding the astronomical object</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1353" target="n1348">
+  <data key="d3">A camera needs to set the focus, which can be automatically set by an iPhone for astrophotography and lunar photography.</data>
+  <data key="d4">1.34565885586346e+19</data>
+</edge>
+<edge source="n1353" target="n1349">
+  <data key="d3">The telescope's focuser is used to achieve focus in astrophotography</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n1353" target="n1345">
+  <data key="d3">The focus of the lens needs to be adjusted and maintained during astrophotography, and achieving sharp focus is difficult</data>
+  <data key="d4">1.55954588174849e+19</data>
+</edge>
+<edge source="n939" target="n1154">
+  <data key="d3">is</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n939" target="n1390">
+  <data key="d3">Film cameras are also used to attempt to capture dim objects in the night sky</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n939" target="n1433">
+  <data key="d3">Digital cameras are used to capture dim objects in the night sky</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n769" target="n1348">
+  <data key="d3">Falling star is a celestial object that can be photographed using a camera in astrophotography</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n1154" target="n770">
+  <data key="d3">is</data>
+  <data key="d4">3.41635571814785e+18</data>
+</edge>
+<edge source="n1154" target="n1372">
+  <data key="d3">A smartphone can be used to photograph the brightest stars in astrophotography</data>
+  <data key="d4">1.71705408278378e+19</data>
+</edge>
+<edge source="n1343" target="n122">
+  <data key="d3">is</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1343" target="n1337">
+  <data key="d3">The camera - and - telescope imaging method can be used to photograph star systems</data>
+  <data key="d4">1.51251588016276e+19</data>
+</edge>
+<edge source="n1343" target="n713">
+  <data key="d3">is</data>
+  <data key="d4">7.89058973934018e+18</data>
+</edge>
+<edge source="n1395" target="n568">
+  <data key="d3">Planetarium software can provide information such as altitude, azimuth, and celestial coordinates of a star</data>
+  <data key="d4">1.20255761063201e+19</data>
+</edge>
+<edge source="n1395" target="n146">
+  <data key="d3">Sigma Octantis is a type of star</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1395" target="n1380">
+  <data key="d3">Both the Sun and stars are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n1395" target="n1337">
+  <data key="d3">The camera - and - telescope imaging method can be used to photograph stars</data>
+  <data key="d4">6.17663422317114e+18</data>
+</edge>
+<edge source="n1395" target="n1442">
+  <data key="d3">Sirius is a specific star with an apparent magnitude</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n1395" target="n1287">
+  <data key="d3">The Live View and Zoom Mode can be used to focus on a star</data>
+  <data key="d4">4.83290916076567e+18</data>
+</edge>
+<edge source="n1395" target="n1349">
+  <data key="d3">The telescope can be used to observe and image a star when it is near the Moon</data>
+  <data key="d4">3.02634956024523e+18</data>
+</edge>
+<edge source="n1395" target="n1348">
+  <data key="d3">A camera can be used to capture images of stars when they are near the Moon or during a lunar occultation</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n1395" target="n1364">
+  <data key="d3">Both stars and DSOs are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">5.71208618103423e+18</data>
+</edge>
+<edge source="n1395" target="n1360">
+  <data key="d3">Both stars and planets are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">1.39436620153396e+19</data>
+</edge>
+<edge source="n1395" target="n1358">
+  <data key="d3">Both the Moon and stars are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">5.83959206188487e+18</data>
+</edge>
+<edge source="n713" target="n1348">
+  <data key="d3">A camera can be used to photograph stellar asterisms in astrophotography</data>
+  <data key="d4">4.83290916076567e+18</data>
+</edge>
+<edge source="n1347" target="n1348">
+  <data key="d3">Different imaging methods for astropics require a means of attaching the camera to the telescope or mount</data>
+  <data key="d4">1.05223345430097e+19</data>
+</edge>
+<edge source="n1347" target="n1380">
+  <data key="d3">Imaging methods are used to photograph the Sun</data>
+  <data key="d4">1.54158262642335e+19</data>
+</edge>
+<edge source="n1347" target="n1345">
+  <data key="d3">A long - focal length lens is a tool for specific imaging methods, like photographing lunar occultations</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n1347" target="n1364">
+  <data key="d3">Imaging methods are used to photograph deep - sky objects, especially during 'dark of the Moon' nights</data>
+  <data key="d4">1.20255761063201e+19</data>
+</edge>
+<edge source="n758" target="n1084">
+  <data key="d3">is</data>
+  <data key="d4">3.81857976814613e+18</data>
+</edge>
+<edge source="n758" target="n753">
+  <data key="d3">Daystar filters can be used with a digital single - lens reflex camera for specific astrophotography</data>
+  <data key="d4">1.51251588016276e+19</data>
+</edge>
+<edge source="n568" target="n1396">
+  <data key="d3">Latitude is a parameter input into planetarium software to determine star visibility</data>
+  <data key="d4">1.330630302568e+18</data>
+</edge>
+<edge source="n568" target="n1424">
+  <data key="d3">Planetarium software can run a GOTO mount</data>
+  <data key="d4">9.15391902648264e+18</data>
+</edge>
+<edge source="n1408" target="n1348">
+  <data key="d3">Software can be used to run a camera and process astropics in astrophotography</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1408" target="n1354">
+  <data key="d3">Software is used to determine the orientation and appearance of the Milky Way</data>
+  <data key="d4">1.18295936409293e+19</data>
+</edge>
+<edge source="n1408" target="n1364">
+  <data key="d3">Software can help in setting up an observing list for DSOs</data>
+  <data key="d4">4.68019835520435e+18</data>
+</edge>
+<edge source="n1408" target="n1358">
+  <data key="d3">Software can tell the percentage of lunar surface in sunlight and help determine the visibility of lunar features</data>
+  <data key="d4">4.90445488803536e+18</data>
+</edge>
+<edge source="n1335" target="n1348">
+  <data key="d3">Computer and software capabilities can be upgraded for the camera's astrophotography requirements</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n1335" target="n1349">
+  <data key="d3">Computer and software capabilities can be upgraded for the telescope's astrophotography requirements</data>
+  <data key="d4">7.71636125775059e+18</data>
+</edge>
+<edge source="n417" target="n1203">
+  <data key="d3">is</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n417" target="n1391">
+  <data key="d3">Pocket cameras have a certain number of pixels which is an important parameter for image quality</data>
+  <data key="d4">6.72244572670026e+18</data>
+</edge>
+<edge source="n417" target="n400">
+  <data key="d3">is</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n417" target="n949">
+  <data key="d3">is</data>
+  <data key="d4">4.68019835520435e+18</data>
+</edge>
+<edge source="n310" target="n1348">
+  <data key="d3">Images taken by the camera are processed using image processing software</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n310" target="n1430">
+  <data key="d3">Astrophotography rules require applying the 'Read the Manual' rule to image processing software</data>
+  <data key="d4">4.68019835520435e+18</data>
+</edge>
+<edge source="n1066" target="n1127">
+  <data key="d3">is</data>
+  <data key="d4">1.09933059211398e+19</data>
+</edge>
+<edge source="n1066" target="n1064">
+  <data key="d3">The single image versus many images technique can be applied when using the Slooh Rental Camera and Telescope for astrophotography</data>
+  <data key="d4">1.47389170224486e+19</data>
+</edge>
+<edge source="n922" target="n152">
+  <data key="d3">is</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n922" target="n1417">
+  <data key="d3">NightCap Camera can be used to capture star trails</data>
+  <data key="d4">9.82523986793797e+18</data>
+</edge>
+<edge source="n1073" target="n357">
+  <data key="d3">is</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1073" target="n1070">
+  <data key="d3">is</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n1073" target="n1076">
+  <data key="d3">is</data>
+  <data key="d4">1.07163861564508e+19</data>
+</edge>
+<edge source="n1073" target="n1074">
+  <data key="d3">is</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n1170" target="n1349">
+  <data key="d3">The telescope tracking correction method is used to correct the tracking system of a telescope</data>
+  <data key="d4">9.57014579926277e+18</data>
+</edge>
+<edge source="n1170" target="n827">
+  <data key="d3">is</data>
+  <data key="d4">1.24897681130358e+19</data>
+</edge>
+<edge source="n1170" target="n1332">
+  <data key="d3">is</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1437" target="n1345">
+  <data key="d3">A lens is an optical component used in conjunction with a camera to image deep sky objects in astrophotography</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n1437" target="n1440">
+  <data key="d3">is</data>
+  <data key="d4">3.46638064154367e+18</data>
+</edge>
+<edge source="n1352" target="n1348">
+  <data key="d3">Parameters like the focuser travel of the telescope affect the camera's performance</data>
+  <data key="d4">6.72244572670026e+18</data>
+</edge>
+<edge source="n1352" target="n1345">
+  <data key="d3">The lens aperture is one of the parameters adjusted for astrophotography during eclipses</data>
+  <data key="d4">1.71128839348318e+19</data>
+</edge>
+<edge source="n1074" target="n1071">
+  <data key="d3">is</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1074" target="n664">
+  <data key="d3">is</data>
+  <data key="d4">5.01982805242056e+18</data>
+</edge>
+<edge source="n1074" target="n784">
+  <data key="d3">is</data>
+  <data key="d4">1.75537918684676e+19</data>
+</edge>
+<edge source="n1074" target="n327">
+  <data key="d3">is</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1074" target="n648">
+  <data key="d3">is</data>
+  <data key="d4">1.51251588016276e+19</data>
+</edge>
+<edge source="n1074" target="n1076">
+  <data key="d3">is</data>
+  <data key="d4">2.12676269195468e+18</data>
+</edge>
+<edge source="n1072" target="n1348">
+  <data key="d3">Rule 6 emphasizes the importance of focus when using a camera for astrophotography</data>
+  <data key="d4">2.12676269195468e+18</data>
+</edge>
+<edge source="n1072" target="n1349">
+  <data key="d3">Rule 6 emphasizes the importance of focus when using a telescope with a camera for astrophotography</data>
+  <data key="d4">1.32555836213469e+19</data>
+</edge>
+<edge source="n1076" target="n665">
+  <data key="d3">is</data>
+  <data key="d4">6.54929042184244e+18</data>
+</edge>
+<edge source="n1076" target="n664">
+  <data key="d3">is</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1076" target="n1038">
+  <data key="d3">is</data>
+  <data key="d4">1.18295936409293e+19</data>
+</edge>
+<edge source="n1076" target="n648">
+  <data key="d3">is</data>
+  <data key="d4">1.05223345430097e+19</data>
+</edge>
+<edge source="n1076" target="n1071">
+  <data key="d3">is</data>
+  <data key="d4">7.71636125775059e+18</data>
+</edge>
+<edge source="n1076" target="n784">
+  <data key="d3">is</data>
+  <data key="d4">9.15391902648264e+18</data>
+</edge>
+<edge source="n1076" target="n1067">
+  <data key="d3">is</data>
+  <data key="d4">9.57014579926277e+18</data>
+</edge>
+<edge source="n1203" target="n714">
+  <data key="d3">is</data>
+  <data key="d4">1.55954588174849e+19</data>
+</edge>
+<edge source="n1203" target="n858">
+  <data key="d3">is</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n1203" target="n1349">
+  <data key="d3">The telescope's specifications and imaging configurations affect pixel size in astrophotography</data>
+  <data key="d4">3.81857976814613e+18</data>
+</edge>
+<edge source="n1203" target="n998">
+  <data key="d3">is</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n1399" target="n1071">
+  <data key="d3">The parameter of transparency is considered in Rule 5 for deciding on astrophotography sessions</data>
+  <data key="d4">9.15391902648264e+18</data>
+</edge>
+<edge source="n1399" target="n1349">
+  <data key="d3">The transparency parameter of the atmosphere affects the quality of astrophotography using a telescope</data>
+  <data key="d4">5.83959206188487e+18</data>
+</edge>
+<edge source="n1399" target="n1348">
+  <data key="d3">The transparency parameter of the atmosphere affects the quality of astrophotography using a camera</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n460" target="n1348">
+  <data key="d3">Astronomy software can be used in conjunction with a camera in astrophotography</data>
+  <data key="d4">1.3198457219324e+19</data>
+</edge>
+<edge source="n460" target="n1349">
+  <data key="d3">Astronomy software can be used in conjunction with a telescope in astrophotography</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n152" target="n1364">
+  <data key="d3">DSOs are visible during star parties when the Moon is out of the sky</data>
+  <data key="d4">4.55418759719346e+18</data>
+</edge>
+<edge source="n349" target="n1348">
+  <data key="d3">Cropping is used on images taken by the camera</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n349" target="n1281">
+  <data key="d3">COMPANY may provide image-processing tools, such as cropping features, to customers for refining their astrophotography results.</data>
+  <data key="d5">-1</data>
+</edge>
+<edge source="n349" target="n131">
+  <data key="d3">Cropping is often used in astrophotography to enhance images of Solar System objects by removing unwanted areas and focusing on specific celestial targets.</data>
+  <data key="d5">-1</data>
+</edge>
+<edge source="n740" target="n1348">
+  <data key="d3">A camera can be used to photograph sunspots and other features on the Sun in astrophotography</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n740" target="n1101">
+  <data key="d3">is</data>
+  <data key="d4">1.71705408278378e+19</data>
+</edge>
+<edge source="n146" target="n616">
+  <data key="d3">Sigma Octantis can possibly be seen near the equator on Earth</data>
+  <data key="d4">4.83290916076567e+18</data>
+</edge>
+<edge source="n146" target="n1401">
+  <data key="d3">The star Sigma Octantis in the Southern Hemisphere is used to assist in the polar alignment procedure</data>
+  <data key="d4">7.92215117866653e+18</data>
+</edge>
+<edge source="n1346" target="n1380">
+  <data key="d3">The rules include keeping the Sun at a safe distance during daytime lunar/planetary work</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n1346" target="n1348">
+  <data key="d3">Rules also apply when using cameras in combination with advanced solar viewing systems</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1346" target="n1349">
+  <data key="d3">The use of the telescope should follow the rule of reading its user's manual</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n1346" target="n1345">
+  <data key="d3">The rules mandate reading the lens's user's manual before using the lens in astrophotography</data>
+  <data key="d4">6.14093164039368e+18</data>
+</edge>
+<edge source="n841" target="n1348">
+  <data key="d3">Cameras are used to photograph deep - sky objects in astrophotography</data>
+  <data key="d4">1.330630302568e+18</data>
+</edge>
+<edge source="n1127" target="n393">
+  <data key="d3">is</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1127" target="n360">
+  <data key="d3">is</data>
+  <data key="d4">2.12676269195468e+18</data>
+</edge>
+<edge source="n742" target="n1085">
+  <data key="d3">Standard lenses can be used to photograph star clusters in astrophotography</data>
+  <data key="d4">1.62668135405564e+19</data>
+</edge>
+<edge source="n742" target="n1359">
+  <data key="d3">Star clusters are a type of deep - sky object</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n742" target="n768">
+  <data key="d3">is</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n742" target="n122">
+  <data key="d3">is</data>
+  <data key="d4">1.38903937021948e+19</data>
+</edge>
+<edge source="n742" target="n1348">
+  <data key="d3">A camera can be used to photograph star clusters in astrophotography</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n742" target="n1434">
+  <data key="d3">The stacking imaging method can be used to photograph star clusters in astrophotography</data>
+  <data key="d4">1.28562748183389e+19</data>
+</edge>
+<edge source="n774" target="n1360">
+  <data key="d3">High - resolution planetary astrophotography is a method for capturing planet images</data>
+  <data key="d4">7.92215117866653e+18</data>
+</edge>
+<edge source="n774" target="n770">
+  <data key="d3">Haley's Comet can potentially be photographed using high resolution planetary astrophotography method</data>
+  <data key="d4">1.330630302568e+18</data>
+</edge>
+<edge source="n774" target="n809">
+  <data key="d3">is</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n993" target="n992">
+  <data key="d3">Steadiness is a characteristic of atmospheric conditions</data>
+  <data key="d4">4.95108240206308e+18</data>
+</edge>
+<edge source="n1434" target="n907">
+  <data key="d3">The stacking imaging method can be used to capture supernovas in astrophotography</data>
+  <data key="d4">7.61441443526889e+18</data>
+</edge>
+<edge source="n1434" target="n1348">
+  <data key="d3">The stacking method uses images obtained from a camera</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1434" target="n1380">
+  <data key="d3">The stacking imaging method can be used to photograph the Sun with proper solar filter and procedures</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1434" target="n1381">
+  <data key="d3">The stacking imaging method can be used to photograph planets</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1434" target="n1358">
+  <data key="d3">The stacking imaging method can be used to photograph the Moon</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1332" target="n1348">
+  <data key="d3">A camera can be used with telescope imaging methods to obtain astropics</data>
+  <data key="d4">3.46638064154367e+18</data>
+</edge>
+<edge source="n1332" target="n1119">
+  <data key="d3">is</data>
+  <data key="d4">2.9276634560311e+18</data>
+</edge>
+<edge source="n457" target="n1348">
+  <data key="d3">A camera is used to capture sky objects in astrophotography</data>
+  <data key="d4">1.18295936409293e+19</data>
+</edge>
+<edge source="n457" target="n458">
+  <data key="d3">The observer's handbook provides information about sky objects for astrophotography</data>
+  <data key="d4">5.03598123798109e+18</data>
+</edge>
+<edge source="n457" target="n1333">
+  <data key="d3">is</data>
+  <data key="d4">1.18295936409293e+19</data>
+</edge>
+<edge source="n998" target="n1056">
+  <data key="d3">Resolution is an important parameter for pure astrocameras in astrophotography</data>
+  <data key="d4">4.90445488803536e+18</data>
+</edge>
+<edge source="n998" target="n1348">
+  <data key="d3">The camera's resolution is determined by the number and size of pixels on its sensor and the type of astronomical object and optics used</data>
+  <data key="d4">5.57511297772483e+18</data>
+</edge>
+<edge source="n998" target="n1431">
+  <data key="d3">The type of astronomical object affects the determination of the camera's resolution</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n998" target="n1349">
+  <data key="d3">The telescope's specifications and imaging configurations affect resolution in astrophotography</data>
+  <data key="d4">9.45270301912515e+18</data>
+</edge>
+<edge source="n1085" target="n1084">
+  <data key="d3">Both square lens glass filter and standard lenses are types of equipment related to the lens category in astrophotography</data>
+  <data key="d4">1.39436620153396e+19</data>
+</edge>
+<edge source="n1085" target="n1059">
+  <data key="d3">is</data>
+  <data key="d4">1.71128839348318e+19</data>
+</edge>
+<edge source="n1085" target="n763">
+  <data key="d3">is</data>
+  <data key="d4">7.38113193170633e+18</data>
+</edge>
+<edge source="n339" target="n1432">
+  <data key="d3">The adjustment of white balance in astrophotography should follow Astrophotography Rule #9</data>
+  <data key="d4">2.75390734171036e+18</data>
+</edge>
+<edge source="n339" target="n1293">
+  <data key="d3">is</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1381" target="n543">
+  <data key="d3">The Vaonis Stellina Smart Telescope can take astropics of planets</data>
+  <data key="d4">7.89058973934018e+18</data>
+</edge>
+<edge source="n1381" target="n1360">
+  <data key="d3">is</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1381" target="n1349">
+  <data key="d3">A telescope is used to view planets for astrophotography</data>
+  <data key="d4">1.34565885586346e+19</data>
+</edge>
+<edge source="n1381" target="n1348">
+  <data key="d3">A camera can be used to photograph planets during a solar eclipse, including capturing wide - angle views</data>
+  <data key="d4">1.54158262642335e+19</data>
+</edge>
+<edge source="n394" target="n1348">
+  <data key="d3">An extensive guide can be used to learn how to operate the camera for astrophotography</data>
+  <data key="d4">5.83959206188487e+18</data>
+</edge>
+<edge source="n394" target="n1406">
+  <data key="d3">An extensive guide may provide information on setting the ISO value for astrophotography</data>
+  <data key="d4">1.62668135405564e+19</data>
+</edge>
+<edge source="n394" target="n1436">
+  <data key="d3">An extensive guide may provide information on setting the aperture value for astrophotography</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n41" target="n1348">
+  <data key="d3">A camera can be used to take pictures of stars and planets in astrophotography</data>
+  <data key="d4">2.75390734171036e+18</data>
+</edge>
+<edge source="n41" target="n1333">
+  <data key="d3">is</data>
+  <data key="d4">4.55418759719346e+18</data>
+</edge>
+<edge source="n739" target="n1348">
+  <data key="d3">A camera can be used to photograph the full - disk feature in astrophotography</data>
+  <data key="d4">1.64984263700366e+19</data>
+</edge>
+<edge source="n739" target="n1081">
+  <data key="d3">is</data>
+  <data key="d4">1.72487322427241e+19</data>
+</edge>
+<edge source="n1359" target="n907">
+  <data key="d3">A supernova is an astronomical event that can be considered a deep - sky object for photography</data>
+  <data key="d4">1.72487322427241e+19</data>
+</edge>
+<edge source="n908" target="n1349">
+  <data key="d3">The light collection capability is a parameter related to a telescope's performance in astrophotography</data>
+  <data key="d4">1.71705408278378e+19</data>
+</edge>
+<edge source="n1354" target="n360">
+  <data key="d3">Images of the Milky Way captured through astrophotography can be posted online</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1354" target="n1372">
+  <data key="d3">Smartphones can be used to photograph the Milky Way with software, mountings, and accessories</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1354" target="n1390">
+  <data key="d3">A film camera can be used to photograph the Milky Way</data>
+  <data key="d4">7.38113193170633e+18</data>
+</edge>
+<edge source="n1354" target="n1391">
+  <data key="d3">A pocket camera can be used to photograph the Milky Way</data>
+  <data key="d4">1.44316467237629e+19</data>
+</edge>
+<edge source="n1354" target="n1345">
+  <data key="d3">A lens is part of the equipment used to capture the Milky Way in astrophotography</data>
+  <data key="d4">7.61441443526889e+18</data>
+</edge>
+<edge source="n1354" target="n1430">
+  <data key="d3">Astrophotography rules state that for the Milky Way, the Moon should be out of the sky and sky transparency should be considered</data>
+  <data key="d4">1.07163861564508e+19</data>
+</edge>
+<edge source="n1059" target="n1056">
+  <data key="d3">Pure astrocameras can be used with prime lenses in astrophotography</data>
+  <data key="d4">1.54158262642335e+19</data>
+</edge>
+<edge source="n1059" target="n763">
+  <data key="d3">is</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n1103" target="n1348">
+  <data key="d3">Some types of cameras can use the afocal imaging method for star photography</data>
+  <data key="d4">1.64984263700366e+19</data>
+</edge>
+<edge source="n1103" target="n726">
+  <data key="d3">The afocal imaging method can be used to photograph Sirius B</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n1103" target="n1442">
+  <data key="d3">The afocal imaging method can be used to photograph Sirius</data>
+  <data key="d4">7.38113193170633e+18</data>
+</edge>
+<edge source="n1103" target="n1358">
+  <data key="d3">The afocal imaging method can be used to photograph the Moon</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n1330" target="n1348">
+  <data key="d3">A camera is involved in the photon collection and processing process in astrophotography, with different ways in film and digital forms</data>
+  <data key="d4">6.72244572670026e+18</data>
+</edge>
+<edge source="n1330" target="n1349">
+  <data key="d3">A telescope assists in collecting photons from celestial objects for processing in astrophotography</data>
+  <data key="d4">3.02634956024523e+18</data>
+</edge>
+<edge source="n1330" target="n1345">
+  <data key="d3">A lens helps in collecting photons from celestial objects for processing in astrophotography</data>
+  <data key="d4">6.00706930355233e+18</data>
+</edge>
+<edge source="n1097" target="n393">
+  <data key="d3">is</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1097" target="n1348">
+  <data key="d3">Trailing is an imaging method that can be used with a camera in astrophotography</data>
+  <data key="d4">1.3198457219324e+19</data>
+</edge>
+<edge source="n1097" target="n1349">
+  <data key="d3">Trailing can be an imaging method used with a telescope in astrophotography</data>
+  <data key="d4">7.38113193170633e+18</data>
+</edge>
+<edge source="n907" target="n1086">
+  <data key="d3">Spotting scopes can be used to observe and potentially photograph supernovas in astrophotography</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n122" target="n1348">
+  <data key="d3">A camera can be used to photograph star clusters in astrophotography</data>
+  <data key="d4">1.18525564475203e+19</data>
+</edge>
+<edge source="n122" target="n1358">
+  <data key="d3">Star clusters can appear in the sky with the Moon, providing photographic opportunities</data>
+  <data key="d4">1.39436620153396e+19</data>
+</edge>
+<edge source="n122" target="n1367">
+  <data key="d3">The Camera and Telescope mode can photograph star clusters in our galaxy</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n1364" target="n1380">
+  <data key="d3">Both the Sun and DSOs are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">1.40781513534681e+18</data>
+</edge>
+<edge source="n1364" target="n1387">
+  <data key="d3">Astrophotography can target nearby DSOs in our galaxy</data>
+  <data key="d4">1.18525564475203e+19</data>
+</edge>
+<edge source="n1364" target="n1440">
+  <data key="d3">DSO are a type of astronomical objects</data>
+  <data key="d4">1.28562748183389e+19</data>
+</edge>
+<edge source="n1364" target="n1345">
+  <data key="d3">Lenses are used to photograph DSOs</data>
+  <data key="d4">7.61441443526889e+18</data>
+</edge>
+<edge source="n1364" target="n1192">
+  <data key="d3">A color astrocamera can be used to photograph brighter DSOs</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n1364" target="n1349">
+  <data key="d3">A telescope is used to observe and capture images of DSOs in astrophotography</data>
+  <data key="d4">1.72487322427241e+19</data>
+</edge>
+<edge source="n1364" target="n1348">
+  <data key="d3">Cameras are used to photograph Deep - Sky Objects (DSOs) in astrophotography</data>
+  <data key="d4">5.83959206188487e+18</data>
+</edge>
+<edge source="n1364" target="n1360">
+  <data key="d3">Both planets and DSOs are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">1.28562748183389e+19</data>
+</edge>
+<edge source="n1364" target="n1430">
+  <data key="d3">Astrophotography rules state that for DSOs, the Moon should be out of the sky and sky transparency should be considered</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n1038" target="n1348">
+  <data key="d3">The rule of not stomping feet is to avoid blurring the image captured by the camera in astrophotography</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1038" target="n1416">
+  <data key="d3">The rule of not stomping feet is to prevent the mount from vibrating during astrophotography</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1440" target="n664">
+  <data key="d3">The keep - notes rule helps in future reference when observing and photographing astronomical objects at a site</data>
+  <data key="d4">5.83959206188487e+18</data>
+</edge>
+<edge source="n1440" target="n1290">
+  <data key="d3">Video and pure astrocameras are used to capture images of astronomical objects, improving the odds of getting a 'best pic'</data>
+  <data key="d4">9.45270301912515e+18</data>
+</edge>
+<edge source="n1440" target="n1349">
+  <data key="d3">Astronomical objects are the subjects observed and photographed by the telescope</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1440" target="n1348">
+  <data key="d3">A camera is used to photograph astronomical objects in astrophotography</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n1440" target="n1293">
+  <data key="d3">The keep the color real rule applies to the processing of images of astronomical objects in astrophotography</data>
+  <data key="d4">1.62668135405564e+19</data>
+</edge>
+<edge source="n1440" target="n1345">
+  <data key="d3">Lenses collect light from astronomical objects in astrophotography</data>
+  <data key="d4">7.05987683876946e+18</data>
+</edge>
+<edge source="n1440" target="n1367">
+  <data key="d3">The type of astronomical objects to be photographed dictates the set - up in Camera and Telescope mode</data>
+  <data key="d4">4.68019835520435e+18</data>
+</edge>
+<edge source="n1119" target="n1348">
+  <data key="d3">The camera settings are determined using the method of using provided astropics or settings corresponding to the Moon's phase</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1430" target="n1348">
+  <data key="d3">The astrophotography rules require users to know the camera and keep a hand on it at all times</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1430" target="n1345">
+  <data key="d3">The astrophotography rules state that users should know the lenses</data>
+  <data key="d4">6.00706930355233e+18</data>
+</edge>
+<edge source="n1430" target="n1349">
+  <data key="d3">The astrophotography rules require users to know the telescope</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n57" target="n1380">
+  <data key="d3">The prime focus technique can be used to photograph the Sun with proper solar filters</data>
+  <data key="d4">1.3198457219324e+19</data>
+</edge>
+<edge source="n57" target="n1373">
+  <data key="d3">is</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1360" target="n1380">
+  <data key="d3">Both the Sun and planets are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n1360" target="n1337">
+  <data key="d3">The camera - and - telescope imaging method can be used to photograph planets</data>
+  <data key="d4">4.95108240206308e+18</data>
+</edge>
+<edge source="n1360" target="n1348">
+  <data key="d3">Cameras can photograph the brighter planets</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1360" target="n1349">
+  <data key="d3">The telescope can be used to observe and image a planet when it is near the Moon</data>
+  <data key="d4">6.00706930355233e+18</data>
+</edge>
+<edge source="n1360" target="n1287">
+  <data key="d3">The Live View and Zoom Mode can be used to focus on a planet</data>
+  <data key="d4">1.9874370162291e+18</data>
+</edge>
+<edge source="n1360" target="n1431">
+  <data key="d3">is</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n1360" target="n458">
+  <data key="d3">The Observer's Handbook provides background on planets for their observing seasons and the position of moons</data>
+  <data key="d4">6.14093164039368e+18</data>
+</edge>
+<edge source="n1360" target="n1358">
+  <data key="d3">Both the Moon and planets are astronomical objects that can be photographed in astrophotography</data>
+  <data key="d4">5.83959206188487e+18</data>
+</edge>
+<edge source="n327" target="n1348">
+  <data key="d3">When using a camera for astrophotography, Astrophotography Rule #8 about taking many astropics per session applies</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n327" target="n1349">
+  <data key="d3">Astrophotography Rule #8 applies to astrophotography sessions using a telescope, suggesting taking many astropics</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n1093" target="n1348">
+  <data key="d3">The Rule of 500 is a rule that can be applied when using a camera in astrophotography</data>
+  <data key="d4">5.57511297772483e+18</data>
+</edge>
+<edge source="n1093" target="n1349">
+  <data key="d3">The Rule of 500 can be relevant when using a telescope in astrophotography</data>
+  <data key="d4">1.71128839348318e+19</data>
+</edge>
+<edge source="n738" target="n1348">
+  <data key="d3">A camera can be used to photograph moonrise/moonset and moon shots in astrophotography</data>
+  <data key="d4">3.41635571814785e+18</data>
+</edge>
+<edge source="n237" target="n1348">
+  <data key="d3">The camera has specific settings used for astrophotography of the aurora</data>
+  <data key="d4">6.54929042184244e+18</data>
+</edge>
+<edge source="n237" target="n1420">
+  <data key="d3">The camera settings are determined according to the characteristics of the aurora</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n665" target="n1396">
+  <data key="d3">The site selection survey takes latitude into account to determine sky visibility (declination limit)</data>
+  <data key="d4">7.61441443526889e+18</data>
+</edge>
+<edge source="n665" target="n1348">
+  <data key="d3">The site selection survey is used to find a suitable location for astrophotography using a camera</data>
+  <data key="d4">9.45270301912515e+18</data>
+</edge>
+<edge source="n665" target="n1349">
+  <data key="d3">The site selection survey is used to find a suitable location for astrophotography using a telescope (in combination with a camera)</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n784" target="n1348">
+  <data key="d3">Manufacturer guidelines and procedures should be followed when using a camera in astrophotography</data>
+  <data key="d4">9.15391902648264e+18</data>
+</edge>
+<edge source="n784" target="n1345">
+  <data key="d3">Manufacturer guidelines and procedures should be followed when using a lens in astrophotography</data>
+  <data key="d4">9.82523986793797e+18</data>
+</edge>
+<edge source="n133" target="n1348">
+  <data key="d3">The camera is used to photograph planetary objects</data>
+  <data key="d4">1.20677895068683e+19</data>
+</edge>
+<edge source="n133" target="n1349">
+  <data key="d3">The telescope is used to photograph planetary objects</data>
+  <data key="d4">5.71208618103423e+18</data>
+</edge>
+<edge source="n133" target="n960">
+  <data key="d3">is</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n960" target="n1348">
+  <data key="d3">A camera can be used to take astropics of planetary objects when combined with a telescope and other accessories</data>
+  <data key="d4">3.02634956024523e+18</data>
+</edge>
+<edge source="n1290" target="n1056">
+  <data key="d3">is</data>
+  <data key="d4">6.00706930355233e+18</data>
+</edge>
+<edge source="n1290" target="n1293">
+  <data key="d3">The keep the color real rule applies to the images captured by video and pure astrocameras</data>
+  <data key="d4">1.18295936409293e+19</data>
+</edge>
+<edge source="n858" target="n1348">
+  <data key="d3">Cameras are used to capture RAW images in astrophotography</data>
+  <data key="d4">4.55418759719346e+18</data>
+</edge>
+<edge source="n393" target="n1348">
+  <data key="d3">The trial - and - error imaging method is used when operating the camera to learn astrophotography</data>
+  <data key="d4">7.70327139640122e+18</data>
+</edge>
+<edge source="n393" target="n1406">
+  <data key="d3">The trial - and - error method is used to figure out the appropriate ISO value for astrophotography</data>
+  <data key="d4">1.71705408278378e+19</data>
+</edge>
+<edge source="n1287" target="n360">
+  <data key="d3">is</data>
+  <data key="d4">1.07163861564508e+19</data>
+</edge>
+<edge source="n949" target="n940">
+  <data key="d3">A good DSLR for astrophotography should have full control over picture size</data>
+  <data key="d4">3.81857976814613e+18</data>
+</edge>
+<edge source="n949" target="n400">
+  <data key="d3">is</data>
+  <data key="d4">1.18525564475203e+19</data>
+</edge>
+<edge source="n1070" target="n88">
+  <data key="d3">Rule 4 requires having a red headlamp for nighttime astrophotography</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n1070" target="n103">
+  <data key="d3">is</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n1293" target="n1348">
+  <data key="d3">The keep the color real rule applies to the images captured by the camera</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1058" target="n974">
+  <data key="d3">is</data>
+  <data key="d4">4.68019835520435e+18</data>
+</edge>
+<edge source="n1058" target="n1047">
+  <data key="d3">is</data>
+  <data key="d4">3.81857976814613e+18</data>
+</edge>
+<edge source="n1058" target="n400">
+  <data key="d3">Sensor size is a parameter of smartphones that affects astrophotography</data>
+  <data key="d4">1.55954588174849e+19</data>
+</edge>
+<edge source="n1333" target="n1349">
+  <data key="d3">A telescope, when used with a camera, can be used to photograph other objects in the universe</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n768" target="n1349">
+  <data key="d3">A telescope can be used to observe globular clusters for astrophotography</data>
+  <data key="d4">1.3198457219324e+19</data>
+</edge>
+<edge source="n992" target="n1348">
+  <data key="d3">Atmospheric transparency can affect the camera's performance in camera - only mode</data>
+  <data key="d4">1.51251588016276e+19</data>
+</edge>
+<edge source="n992" target="n1349">
+  <data key="d3">Atmospheric conditions, including steadiness and transparency, affect the telescopic view and photographs</data>
+  <data key="d4">1.05223345430097e+19</data>
+</edge>
+<edge source="n357" target="n360">
+  <data key="d3">The image processing rule is a prerequisite for the online posting method as properly processed images are needed to post</data>
+  <data key="d4">1.71705408278378e+19</data>
+</edge>
+<edge source="n1084" target="n1380">
+  <data key="d3">The square lens glass filter can be used when photographing the sun in astrophotography</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n543" target="n1064">
+  <data key="d3">is</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n1279" target="n1349">
+  <data key="d3">Telescopes can be used to observe and photograph lunar and planetary objects</data>
+  <data key="d4">1.60609891713785e+19</data>
+</edge>
+<edge source="n1279" target="n1194">
+  <data key="d3">is</data>
+  <data key="d4">6.72244572670026e+18</data>
+</edge>
+<edge source="n824" target="n1410">
+  <data key="d3">The imaging method of photographing the Moon can involve photographing lunar occultations of Venus</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n824" target="n1345">
+  <data key="d3">The characteristics of lenses, such as focal length, affect the imaging of photographing the Moon</data>
+  <data key="d4">7.61441443526889e+18</data>
+</edge>
+<edge source="n1194" target="n1192">
+  <data key="d3">Color astrocameras can be used to photograph lunar and planetary objects</data>
+  <data key="d4">1.9874370162291e+18</data>
+</edge>
+<edge source="n1194" target="n1258">
+  <data key="d3">is</data>
+  <data key="d4">3.02634956024523e+18</data>
+</edge>
+<edge source="n1431" target="n974">
+  <data key="d3">Regular cameras can be used to capture astronomical objects in astrophotography</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1431" target="n1348">
+  <data key="d3">The camera is used to photograph astronomical objects</data>
+  <data key="d4">3.02634956024523e+18</data>
+</edge>
+<edge source="n1431" target="n1349">
+  <data key="d3">The telescope is used to observe and assist in photographing astronomical objects</data>
+  <data key="d4">1.20255761063201e+19</data>
+</edge>
+<edge source="n1380" target="n1349">
+  <data key="d3">A telescope, with proper solar filter on its front/aperture, can be used to photograph the Sun, either alone or in combination with a camera</data>
+  <data key="d4">3.76200793430759e+18</data>
+</edge>
+<edge source="n1380" target="n1390">
+  <data key="d3">Film cameras can be used for solar astrophotography to photograph the Sun</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+<edge source="n1380" target="n1372">
+  <data key="d3">Smartphones can be used for solar astrophotography in afocal mode to photograph the Sun</data>
+  <data key="d4">1.44316467237629e+19</data>
+</edge>
+<edge source="n1380" target="n1391">
+  <data key="d3">Pocket cameras can be used for solar astrophotography in afocal mode to photograph the Sun</data>
+  <data key="d4">7.38113193170633e+18</data>
+</edge>
+<edge source="n1380" target="n1410">
+  <data key="d3">Venus is always in proximity to the Sun</data>
+  <data key="d4">1.20255761063201e+19</data>
+</edge>
+<edge source="n1380" target="n1348">
+  <data key="d3">A camera can be used to photograph the ISS crossing the Sun (with a safe solar filter)</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n1380" target="n616">
+  <data key="d3">Earth orbits around the Sun every 365.25 days</data>
+  <data key="d4">9.57014579926277e+18</data>
+</edge>
+<edge source="n1380" target="n1416">
+  <data key="d3">A mount can be used to track the movement of the Sun during solar eclipse photography</data>
+  <data key="d4">1.3198457219324e+19</data>
+</edge>
+<edge source="n1432" target="n1348">
+  <data key="d3">White balance is a parameter that can be set on the camera</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1348" target="n1442">
+  <data key="d3">A camera can be used to photograph Sirius</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1348" target="n1417">
+  <data key="d3">NightCap Camera software is used to improve camera performance in astrophotography</data>
+  <data key="d4">2.12676269195468e+18</data>
+</edge>
+<edge source="n1348" target="n400">
+  <data key="d3">The sensor size of a camera is determined by looking at the manufacturer's sensor specifications</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1348" target="n360">
+  <data key="d3">Some cameras (e.g., DSLRs with WiFi) are used to capture images for online posting</data>
+  <data key="d4">6.54929042184244e+18</data>
+</edge>
+<edge source="n1348" target="n1390">
+  <data key="d3">Film camera is a type of camera used in astrophotography</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n1348" target="n1372">
+  <data key="d3">Smartphone is a type of camera that can be used as a reference for solar eclipse photography</data>
+  <data key="d4">1.51251588016276e+19</data>
+</edge>
+<edge source="n1348" target="n1349">
+  <data key="d3">Both the telescope and the camera are used together for astronomical observation and photography in astrophotography setups, with the telescope potentially acting as a lens for the camera.</data>
+  <data key="d4">1.32555836213469e+19</data>
+</edge>
+<edge source="n1348" target="n88">
+  <data key="d3">A red headlamp is used when operating the camera at night in astrophotography</data>
+  <data key="d4">7.71636125775059e+18</data>
+</edge>
+<edge source="n1348" target="n1258">
+  <data key="d3">A camera can be used to image planets and the moon in astrophotography</data>
+  <data key="d4">7.05987683876946e+18</data>
+</edge>
+<edge source="n1348" target="n1391">
+  <data key="d3">Pocket camera is a type of camera used in astrophotography</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1348" target="n1345">
+  <data key="d3">The camera may have the capability to change lenses</data>
+  <data key="d4">1.64984263700366e+19</data>
+</edge>
+<edge source="n1348" target="n131">
+  <data key="d3">A camera can be used to photograph the Solar System in astrophotography</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n1348" target="n1101">
+  <data key="d3">A camera can be used to capture white light views of the Sun in astrophotography</data>
+  <data key="d4">1.55593106493876e+19</data>
+</edge>
+<edge source="n1348" target="n1401">
+  <data key="d3">The camera may need polar alignment for each observing session</data>
+  <data key="d4">1.64984263700366e+19</data>
+</edge>
+<edge source="n1348" target="n1081">
+  <data key="d3">Camera is used to photograph the solar disk during a solar eclipse</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1348" target="n1416">
+  <data key="d3">In astrophotography, a mount is used to position the camera, hold it steady, and allow movement</data>
+  <data key="d4">9.45270301912515e+18</data>
+</edge>
+<edge source="n1348" target="n1373">
+  <data key="d3">The prime focus method involves using a camera along with a telescope for solar eclipse photography</data>
+  <data key="d4">1.55593106493876e+19</data>
+</edge>
+<edge source="n1348" target="n1420">
+  <data key="d3">A camera can be used to photograph auroras in astrophotography</data>
+  <data key="d4">7.92215117866653e+18</data>
+</edge>
+<edge source="n1348" target="n1410">
+  <data key="d3">Cameras can be used to photograph the planet Venus in astrophotography, which may include capturing it with the Milky Way or in specific phases like the gibbous phase, and can be done in Camera Only and Camera and Telescope modes.</data>
+  <data key="d4">7.60268249079123e+18</data>
+</edge>
+<edge source="n1064" target="n726">
+  <data key="d3">The Slooh Rental Camera and Telescope can be used to photograph Sirius B in astrophotography</data>
+  <data key="d4">1.20255761063201e+19</data>
+</edge>
+<edge source="n1349" target="n1433">
+  <data key="d3">The digital camera is used with the telescope to take astrophotographs</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1349" target="n1372">
+  <data key="d3">A smartphone can be used with a telescope for astrophotography via a smartphone holder</data>
+  <data key="d4">4.83290916076567e+18</data>
+</edge>
+<edge source="n1349" target="n88">
+  <data key="d3">A red headlamp is used when operating the telescope at night in astrophotography</data>
+  <data key="d4">5.20854240814979e+18</data>
+</edge>
+<edge source="n1349" target="n1442">
+  <data key="d3">A telescope can be used to view Sirius</data>
+  <data key="d4">6.00706930355233e+18</data>
+</edge>
+<edge source="n1349" target="n1345">
+  <data key="d3">Lenses are part of the telescope's optical system in astrophotography</data>
+  <data key="d4">9.70945432211023e+17</data>
+</edge>
+<edge source="n1349" target="n648">
+  <data key="d3">The telescope is mentioned in the Camera Only checklist regarding not leaving it unattended</data>
+  <data key="d4">1.54158262642335e+19</data>
+</edge>
+<edge source="n1349" target="n1410">
+  <data key="d3">A telescope is used to observe and help photograph Venus</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1349" target="n1192">
+  <data key="d3">A telescope is the optics used with a color astrocamera in Camera and Telescope mode</data>
+  <data key="d4">1.77690250868777e+19</data>
+</edge>
+<edge source="n1349" target="n1424">
+  <data key="d3">A GOTO mount is used to support and position the telescope for finding DSOs</data>
+  <data key="d4">1.71128839348318e+19</data>
+</edge>
+<edge source="n1349" target="n1373">
+  <data key="d3">The prime focus method is used when using a telescope and camera for solar eclipse photography</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n1349" target="n827">
+  <data key="d3">The attaching camera piggyback method involves attaching the camera to the telescope tube</data>
+  <data key="d4">3.10125315121171e+18</data>
+</edge>
+<edge source="n1349" target="n131">
+  <data key="d3">A telescope can be used to photograph the Solar System in astrophotography, often in combination with a camera</data>
+  <data key="d4">5.26140698634469e+18</data>
+</edge>
+<edge source="n1349" target="n1436">
+  <data key="d3">The aperture is a key parameter of a telescope. It is related to the size of the telescope's mirror or lens and is considered when choosing a telescope. It determines the amount of light the telescope can collect, its theoretical maximum magnification, and affects the quality of seeing as well as the observation of planets, with different values required for observing different planets.</data>
+  <data key="d4">1.44316467237629e+19</data>
+</edge>
+<edge source="n1349" target="n1416">
+  <data key="d3">The mount and telescope are often used, purchased together, and need to be protected together, and a quality telescope requires a good mount</data>
+  <data key="d4">6.14093164039368e+18</data>
+</edge>
+<edge source="n1349" target="n1420">
+  <data key="d3">A telescope can be used to photograph auroras in astrophotography</data>
+  <data key="d4">6.54929042184244e+18</data>
+</edge>
+<edge source="n1390" target="n1391">
+  <data key="d3">is</data>
+  <data key="d4">1.46410770742675e+19</data>
+</edge>
+<edge source="n1390" target="n940">
+  <data key="d3">DSLRs are more efficient and have fewer limitations than film cameras in astrophotography</data>
+  <data key="d4">7.7388790564239e+18</data>
+</edge>
+<edge source="n1390" target="n1373">
+  <data key="d3">Film cameras can be used with the prime focus method for astrophotography of the ISS</data>
+  <data key="d4">9.07642975867269e+18</data>
+</edge>
+<edge source="n1372" target="n1396">
+  <data key="d3">Smartphone apps can be used to determine latitude</data>
+  <data key="d4">1.26104301222857e+19</data>
+</edge>
+<edge source="n1372" target="n1391">
+  <data key="d3">is</data>
+  <data key="d4">5.57511297772483e+18</data>
+</edge>
+<edge source="n1372" target="n1047">
+  <data key="d3">Smartphone users need the Celestron NexYZ as a telescope adapter for astrophotography</data>
+  <data key="d4">1.71128839348318e+19</data>
+</edge>
+<edge source="n1372" target="n1410">
+  <data key="d3">A smartphone can be used to photograph Venus in astrophotography</data>
+  <data key="d4">1.40781513534681e+18</data>
+</edge>
+<edge source="n1372" target="n1358">
+  <data key="d3">A smartphone can be used to photograph the moon in astrophotography</data>
+  <data key="d4">1.39436620153396e+19</data>
+</edge>
+<edge source="n1391" target="n809">
+  <data key="d3">Pocket cameras can be used for planetary photography</data>
+  <data key="d4">5.57511297772483e+18</data>
+</edge>
+<edge source="n1387" target="n103">
+  <data key="d3">The rule of using a red headlamp is applicable during astrophotography sessions</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n1387" target="n1345">
+  <data key="d3">Lenses are essential tools for astrophotography, and lenses with specific f - numbers are more suitable for this imaging method</data>
+  <data key="d4">9.15391902648264e+18</data>
+</edge>
+<edge source="n1057" target="n753">
+  <data key="d3">is</data>
+  <data key="d4">6.14093164039368e+18</data>
+</edge>
+<edge source="n1057" target="n940">
+  <data key="d3">is</data>
+  <data key="d4">1.24897681130358e+19</data>
+</edge>
+<edge source="n753" target="n1281">
+  <data key="d3">Companies may rent compatible telescopes to users who own digital single lens reflex cameras for astrophotography sessions.</data>
+  <data key="d5">-1</data>
+</edge>
+<edge source="n1345" target="n763">
+  <data key="d3">Fisheye lenses are a type of lens used in astrophotography</data>
+  <data key="d4">5.01982805242056e+18</data>
+</edge>
+<edge source="n1345" target="n88">
+  <data key="d3">A red headlamp is worn when changing lenses to illuminate the process</data>
+  <data key="d4">5.57511297772483e+18</data>
+</edge>
+<edge source="n1345" target="n1192">
+  <data key="d3">A lens is the optics used with a color astrocamera in Camera Only mode</data>
+  <data key="d4">1.74581036621886e+19</data>
+</edge>
+<edge source="n1345" target="n1067">
+  <data key="d3">Rule 1 requires users to know how to operate the lens</data>
+  <data key="d4">3.46638064154367e+18</data>
+</edge>
+<edge source="n1417" target="n1406">
+  <data key="d3">NightCap Camera allows users to change the ISO parameter</data>
+  <data key="d4">1.80309398902427e+19</data>
+</edge>
+<edge source="n1396" target="n1402">
+  <data key="d3">The height of Polaris above the northern horizon is determined by the observer's latitude</data>
+  <data key="d4">3.73158005379826e+18</data>
+</edge>
+</graph></graphml>

@@ -34,7 +34,7 @@ async def openai_embedding(
     api_key="",
 ) -> np.ndarray:
     if api_key:
-        os.environ["OPENAI_API_KEY"] = api_key
+        os.environ["LLM_API_KEY"] = api_key
 
     openai_async_client = (
         AsyncOpenAI() if base_url is None else AsyncOpenAI(base_url=base_url)

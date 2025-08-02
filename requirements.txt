@@ -9,3 +9,6 @@ tenacity
 scikit-learn
 nano_vectordb
 graspologic
+pydantic
+python-dotenv
+pandas
