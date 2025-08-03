@@ -3,22 +3,17 @@
 </p>
 
 ## Project Introduction
-AstroVLM is an expert multi-agent collaborative framework designed for diagnosing the quality of astronomical images. This system addresses the complex challenges inherent in astronomical imaging, a field that requires a blend of multidisciplinary knowledge and involves numerous, intricate sub-tasks. Even for world-class organizations and seasoned enthusiasts, diagnosing image quality is a significant investment of time and effort due to the complex correlations between different processes. 
-
-The goal of AstroVLM is to automate the difficult and time-consuming task of identifying the root causes of low-quality astronomical images, a challenge that has not been effectively addressed by previous studies. By leveraging a multi-agent system, AstroVLM provides a robust solution for comprehensive quality diagnosis and precise error localization in the astronomical imaging workflow. 
-
-
+AstroVLM is an expert multi-agent collaborative framework designed for diagnosing the quality of astronomical images. This system addresses the complex challenges inherent in astronomical imaging, a field that requires a blend of multidisciplinary knowledge and involves numerous, intricate sub-tasks. By leveraging a multi-agent system, AstroVLM provides a robust solution for comprehensive quality diagnosis and precise error localization in the astronomical imaging workflow. 
 
 ## Key Features
 
-- Multi-Agent Framework (AstroSight)
-- Agent-Specific Knowledge RAG (ASK-RAG)
-- Reasonging with Backtracking (RwB): This novel process enhances the accuracy of error localization.  It features:
-  - Chain-of-Backtracking (CoB)
-  - Collaborative Reasoning Tree (CRT)
--  Superior Performance
--  Proven Stability
--  Lastest Novel RAG Method
+- Multi-Agent Framework designed for Astronomical imaging diagnosis. **(AstroSight)**
+- Agent-Specific Knowledge RAG **(ASK-RAG)** for multi-agent system. 
+- Reasonging with Backtracking **(RwB)** for enhancing the accuracy of error localisation:  
+  - Chain-of-Backtracking **(CoB)**
+  - Collaborative Reasoning Tree **(CRT)**
+-  Superior performance and proven stability in experiments.
+-  Sufficient dataset collected from real-world observation.
 
 ## Installation 
 1.  Clone the repo:
@@ -39,14 +34,17 @@ pip install -r requirements.txt
 export LLM_API_KEY="YOUR_API_KEY"
 ```
 
-## Deployment
-Run the ASK_RAG to get subgraphs for all agents
+## Run
+Run the ASKRAG to get subgraphs for all agents.
 ```bash
-python ASK_Test.py
+python ASK_Main.py
 ```
 
-## Run
-Run the Astrosight to get use of AstroVLM
+Run the AstroSight to get use of AstroVLM.
 ```bash
 python AstroSight/multi-process.py
 ```
+
+## PS
+
+The current repository only contains some key codes. After the paper is accepted, all the codes will be opensourced in this repository.
